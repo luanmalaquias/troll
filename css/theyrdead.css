@@ -1,0 +1,62 @@
+@font-face {
+    font-family: "Blood"; 
+    src: url("../fonts/Zombies.ttf");
+}
+
+th,
+td{
+    width: 50%;
+}
+
+body {
+    background-color: rgb(30, 30, 30);
+    background-image: url("../img/background-theyrdead.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: color-dodge;
+}
+
+.text {
+    font-family: Blood;
+    font-size: 12rem;
+    color: #d11919;
+}
+
+#graf{
+    opacity: 0.5;
+}
+
+@media (max-width: 1000px) {
+    
+    body{
+        background-image: url("../img/theyrdeadmobile.png");
+    }
+
+    #home,
+    #user{
+        font-size: 2.5em;
+    }
+
+    .text{
+        font-size: 15em;
+    }
+
+    th,
+    td{
+        font-size: 3em;
+    }
+
+    .container{
+        margin-left: 0;
+        margin-right: 0;
+        max-width: 100%;
+    }
+
+    #graf{
+        width: 100%;
+    }
+
+    button{
+        font-size: 3em !important;
+    }
+}

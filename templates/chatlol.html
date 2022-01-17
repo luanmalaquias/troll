@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Chat Lol Spam</title>
+
+    <link rel="icon" href="https://upload.wikimedia.org/wikipedia/pt/7/73/Trollface.png">
+
+    <!--Load Bootstrap-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+
+    <style>
+        textarea {
+            font-size: 10px !important;
+        }
+    </style>
+</head>
+
+<body class="bg-dark">
+    <div class="container text-white">
+
+        <!--NavBar-->
+        <div class="row">
+            <!--Home-->
+            <div class="col-6">
+                <a href="../index.html">
+                    <button id="home" type="button" class="btn btn-sm btn-link">Home</button>
+                </a>
+            </div>
+        </div>
+
+        <!--Informacao-->
+        <div class="row d-flex text-center">
+            <p>Divide a figura ASCII para caber no chat do lol.
+                <a href="https://caules.blogspot.com" target="_blank">Melhor site com spam</a>
+            </p>
+
+        </div>
+
+        <!--Conteudo-->
+        <div class="row d-flex justify-content-center">
+
+            <div class="col-4 text-center">
+                <h1>Seu spam aqui</h1>
+                <textarea id="texto" class="form-control" rows="30" wrap="hard" autofocus></textarea>
+                <button class="btn btn-primary mt-1 btn-sm" onclick="gerar()">Gerar</button>
+            </div>
+
+            <div class="col-4 text-center">
+                <h1>Saída</h1>
+                <textarea class="form-control bg-dark text-white" name="textoConvertido" id="textoConvertido"
+                    rows="30"></textarea>
+            </div>
+
+            <div class="col-4 text-center">
+                <h1>Copiar</h1>
+                <div class="row" id="div-copiar">
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</body>
+<script src="../js/chatlol.js"></script>
+
+</html>

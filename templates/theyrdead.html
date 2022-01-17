@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8">
+	<title>They'r Dead</title>
+
+	<!--Load Bootstrap-->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet"
+		integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+
+	<!--Load Bootstrap Icons-->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+
+	<!--Local CSS-->
+	<link rel="stylesheet" href="../css/theyrdead.css">
+
+	<!--Icon-->
+	<link rel="icon" href="../img/icon-theyrdead.png">
+
+</head>
+
+<body>
+	<div class="container">
+
+		<div class="row">
+			<!--Home-->
+			<div class="col-6">
+				<a href="../index.html">
+					<button id="home" type="button" class="btn btn-sm btn-link">Home</button>
+				</a>
+			</div>
+
+			<!--Log in/out-->
+			<div class="col-6 d-flex justify-content-end">
+				<a href="">
+					<button id="user" type="button" class="btn btn-sm btn-link">Login</button>
+				</a>
+				<a href="">
+					<button id="user" type="button" class="btn btn-sm btn-link">Logout</button>
+				</a>
+			</div>
+		</div>
+
+		<!--Titulo principal-->
+		<div class="row-12">
+			<div class="col d-flex justify-content-center">
+				<div class="text">They r Dead</div>
+			</div>
+		</div>
+
+		<!--Tabela-->
+		<div class="row">
+			<div class="col-12 col-md-12 col-lg-3">
+				<table class="table table-dark table-hover">
+					<tr>
+						<th>Name:</th>
+						<td></td>
+					</tr>
+					<tr>
+						<th>Gen:</th>
+						<td></td>
+					</tr>
+					<tr>
+						<th>Class:</th>
+						<td></td>
+					</tr>
+					<tr>
+						<th>Age:</th>
+						<td></td>
+					</tr>
+					<tr>
+						<th>Points:</th>
+						<td></td>
+					</tr>
+					<tr>
+						<th>Level:</th>
+						<td></td>
+					</tr>
+				</table>
+			</div>
+
+			<div class="col-12 col-md-12 col-lg-3">
+				<table class="table table-dark table-hover">
+					<tr>
+						<th>Strength:</th>
+						<td></td>
+					</tr>
+					<tr>
+						<th>Constitution:</th>
+						<td></td>
+					</tr>
+					<tr>
+						<th>Dexterity:</th>
+						<td></td>
+					</tr>
+					<tr>
+						<th>Intelligence:</th>
+						<td></td>
+					</tr>
+					<tr>
+						<th>Wisdom:</th>
+						<td></td>
+					</tr>
+					<tr>
+						<th>Charisma:</th>
+						<td></td>
+					</tr>
+				</table>
+			</div>
+
+			
+			<div class="col-12 col-md-12  col-lg-6">
+				<img id="graf" src="data:image/png;base64, {{graf|safe}}" alt="grafico">
+			</div>
+		</div>
+
+
+		<!--Botões interação-->
+		<form method="POST">
+			<div class="row">
+				<div class="col-12 d-flex justify-content-center">
+					<div class="btn-group" role="group" aria-label="Basic example">
+						<button type="submit" class="btn btn-secondary" name="entity" value="human">Humano</button>
+						<button type="submit" class="btn btn-secondary" name="entity" value="weak">Weark</button>
+						<button type="submit" class="btn btn-secondary" name="entity" value="strong">Strong</button>
+						<button type="submit" class="btn btn-secondary" name="entity"
+							value="overpower">Overpower</button>
+						<button type="submit" class="btn btn-outline-secondary" name="entity" value="clear">
+							Limpar
+							<i class="bi bi-trash"></i>
+						</button>
+					</div>
+				</div>
+			</div>
+			<div class="row d-flex justify-content-center mt-1">
+				<div class="col-1 d-flex justify-content-center">
+					<input class="form-control btn-sm" type="number" placeholder="Luck" name="luck" min="0" max="20" value="{{ luck }}">
+				</div>
+			</div>
+		</form>
+
+	</div>
+
+</body>
+
+</html>
