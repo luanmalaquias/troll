@@ -54,17 +54,17 @@
                     <div class="col-sm-6 col-lg-5 offset-sm-0 offset-lg-2">
                         <h1>Inimigos</h1>
                         <h5>Top</h5>
-                        <select class="form-select champ-select ally-select" onchange="getNomeCampeoes()"></select>
+                        <select class="form-select champ-select enemy-select" onchange="getNomeCampeoes()"></select>
                         <h5>Jg</h5>
-                        <select class="form-select champ-select ally-select" onchange="getNomeCampeoes()"></select>
+                        <select class="form-select champ-select enemy-select" onchange="getNomeCampeoes()"></select>
                         <h5>Mid</h5>
-                        <select class="form-select champ-select ally-select" onchange="getNomeCampeoes()"></select>
+                        <select class="form-select champ-select enemy-select" onchange="getNomeCampeoes()"></select>
                         <h5>Adc</h5>
-                        <select class="form-select champ-select ally-select" onchange="getNomeCampeoes()"></select>
+                        <select class="form-select champ-select enemy-select" onchange="getNomeCampeoes()"></select>
                         <h5>Sup</h5>
-                        <select class="form-select champ-select ally-select" onchange="getNomeCampeoes()"></select>
+                        <select class="form-select champ-select enemy-select" onchange="getNomeCampeoes()"></select>
                     </div>
-                </div>                
+                </div>
 
                 <div class="row mt-5">
                     <div class="col-12 text-center">
@@ -121,7 +121,7 @@
         for (var mE of melhorEscolha) {
             var tr = document.createElement('tr');
             var tdNome = document.createElement('td');
-            tdNome.textContent = `${mE[0]}, ${mE[1]} pontos`
+            tdNome.textContent = `${mE}`
             tr.appendChild(tdNome)
             tabela.appendChild(tr)
         }
@@ -129,60 +129,49 @@
     }
 
     function encontrarMelhorCampeao(aliados, inimigos) {
-        let pontuacao = {};
+        const pontuacoes = {};
 
-        // dar um ponto para cada campeão com sinergia
-        for (let aliado of aliados) {
-            for (let champ of dados[aliado]['bom_com']) {
-                if (!(champ in pontuacao)) {
-                    pontuacao[champ] = (pontuacao[champ] || 0) + 1;
+        for (const campeao in dados) {
+            const dadosCampeao = dados[campeao];
+
+            const fracoContra = dadosCampeao.fraco_contra;
+            const forteContra = dadosCampeao.forte_contra;
+            const bomCom = dadosCampeao.bom_com;
+
+            let pontuacao = 0;
+
+            // Verifica se o campeão é bom com os aliados
+            for (const aliado of aliados) {
+                if (bomCom.includes(aliado)) {
+                    pontuacao += 1;
                 }
             }
-        }
 
-        // verificar se a sinergia é mútua
-        for (let champ in pontuacao) {
-            for (let aliado of aliados) {
-                if (dados[champ]['bom_com'].includes(aliado)) {
-                    pontuacao[champ] = (pontuacao[champ] || 0) + 2;
+            // Verifica se o campeão é forte contra os inimigos
+            for (const inimigo of inimigos) {
+                if (forteContra.includes(inimigo)) {
+                    pontuacao += 1;
+                }                
+                // Verifica se os campeão é fraco contra o inimigo
+                if (fracoContra.includes(inimigo)) {
+                    pontuacao -= 1;
                 }
-            }
+            }            
+
+            pontuacoes[campeao] = pontuacao;
         }
 
-        // dar ponto se o campeão for bom contra o inimigo
-        for (let champ in pontuacao) {
-            for (let inimigo of inimigos) {
-                if (dados[champ]['forte_contra'].includes(inimigo)) {
-                    pontuacao[champ] = (pontuacao[champ] || 0) + 3;
-                }
-            }
-        }
+        
+        // Obtém a maior pontuação entre os campeões
+        const maiorPontuacao = Math.max(...Object.values(pontuacoes));
+        
+        // Filtra os campeões que possuem a maior pontuação
+        const melhoresCampeoes = Object.keys(pontuacoes).filter((campeao) => pontuacoes[campeao] === maiorPontuacao);
 
-        // tirar ponto se o campeão for ruim contra o inimigo
-        for (let champ in pontuacao) {
-            for (let inimigo of inimigos) {
-                if (dados[champ]['fraco_contra'].includes(inimigo)) {
-                    pontuacao[champ] = (pontuacao[champ] || 0) - 2;
-                }
-            }
-        }
-
-        // ordenar os campeões por pontuação em ordem decrescente
-        pontuacao = Object.entries(pontuacao).sort((a, b) => b[1] - a[1]);
-
-        // remover inimigos das pontuacoes
-        for (let inimigo of inimigos) {
-            for (let i = 0; i < pontuacao.length; i++) {
-                if (pontuacao[i][0] == inimigo){
-                    pontuacao.splice(i, 1);
-                }
-            }
-        }
-
-        return pontuacao;
+        return melhoresCampeoes;
     }
 
-    function popularSelects(champs){        
+    function popularSelects(champs) {
         var champSelect = document.getElementsByClassName('champ-select')
         for (var select of champSelect) {
             for (var champ of champs) {
@@ -197,7 +186,7 @@
     var dados;
     carregarDadosJSON('../js/bestchamps/dadosleagueofgraph2.json').then(data => { dados = data; });
     carregarDadosJSON('../js/bestchamps/champs.json').then(champs => { popularSelects(champs) });
-    
+
 
 </script>
 
