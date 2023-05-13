@@ -1,0 +1,4043 @@
+{
+    "Aatrox": {
+        "fraco_contra": [
+            "Jax",
+            "Fiora",
+            "Riven",
+            "Tryndamere",
+            "Renekton",
+            "Ekko"
+        ],
+        "forte_contra": [
+            "Darius",
+            "Master Yi",
+            "Katarina",
+            "Zed",
+            "Yasuo",
+            "Hecarim"
+        ],
+        "bom_com": [
+            "Gnar",
+            "Fizz",
+            "LeBlanc",
+            "Yasuo",
+            "Lee Sin",
+            "Tryndamere"
+        ]
+    },
+    "Ahri": {
+        "fraco_contra": [
+            "LeBlanc",
+            "Annie",
+            "Talon",
+            "Diana",
+            "Kassadin",
+            "Swain"
+        ],
+        "forte_contra": [
+            "Ekko",
+            "Orianna",
+            "Twisted Fate",
+            "Karthus",
+            "Xerath",
+            "Azir"
+        ],
+        "bom_com": [
+            "Riven",
+            "Jax",
+            "Shen",
+            "Irelia",
+            "Renekton",
+            "Rammus"
+        ]
+    },
+    "Akali": {
+        "fraco_contra": [
+            "Lee Sin",
+            "Garen",
+            "Renekton",
+            "Annie",
+            "Diana",
+            "Mordekaiser"
+        ],
+        "forte_contra": [
+            "Yasuo",
+            "Fizz",
+            "Teemo",
+            "Nidalee",
+            "Karthus",
+            "Twisted Fate"
+        ],
+        "bom_com": [
+            "Irelia",
+            "Shen",
+            "LeBlanc",
+            "Diana",
+            "Katarina",
+            "Aatrox"
+        ]
+    },
+    "Akshan": {
+        "fraco_contra": [
+            "Zed",
+            "LeBlanc",
+            "Katarina",
+            "Anivia"
+        ],
+        "forte_contra": [
+            "Karthus",
+            "Kai\u2019Sa",
+            "Gangplank",
+            "Yone",
+            "Yasuo",
+            "Fizz"
+        ],
+        "bom_com": [
+            "Bardo",
+            "Trundle",
+            "Ornn",
+            "Taliyah"
+        ]
+    },
+    "Alistar": {
+        "fraco_contra": [
+            "Janna",
+            "Morgana",
+            "Vayne",
+            "Lulu",
+            "Cho'Gath",
+            "Aatrox"
+        ],
+        "forte_contra": [
+            "Blitzcrank",
+            "Leona",
+            "Thresh",
+            "Rakan",
+            "Kalista",
+            "Katarina"
+        ],
+        "bom_com": [
+            "Yasuo",
+            "Vayne",
+            "Tristana",
+            "Kalista",
+            "Swain",
+            "Kai\u2019Sa"
+        ]
+    },
+    "Amumu": {
+        "fraco_contra": [
+            "Shaco",
+            "Shyvana",
+            "Dr. Mundo",
+            "Xin Zhao",
+            "Lee Sin",
+            "Jinx"
+        ],
+        "forte_contra": [
+            "Blitzcrank",
+            "Katarina",
+            "Yasuo",
+            "Renekton",
+            "Wukong",
+            "Aatrox"
+        ],
+        "bom_com": [
+            "Katarina",
+            "Riven",
+            "Annie",
+            "Ekko",
+            "Fiora",
+            "Fizz"
+        ]
+    },
+    "Anivia": {
+        "fraco_contra": [
+            "Fizz",
+            "Orianna",
+            "Diana",
+            "Kassadin",
+            "LeBlanc",
+            "Talon"
+        ],
+        "forte_contra": [
+            "Ryze",
+            "Kayle",
+            "Lissandra",
+            "Karthus",
+            "Teemo",
+            "Akali"
+        ],
+        "bom_com": [
+            "Poppy",
+            "Trundle",
+            "Dr. Mundo",
+            "Jarvan IV",
+            "Vayne",
+            "Ashe"
+        ]
+    },
+    "Annie": {
+        "fraco_contra": [
+            "Brand",
+            "Lux",
+            "Morgana",
+            "Orianna",
+            "Kassadin",
+            "Xerath"
+        ],
+        "forte_contra": [
+            "Ahri",
+            "Akali",
+            "Fizz",
+            "Katarina",
+            "Yasuo",
+            "Kayle"
+        ],
+        "bom_com": [
+            "Jinx",
+            "Amumu",
+            "Kalista",
+            "Lucian",
+            "Caitlyn",
+            "Ezreal"
+        ]
+    },
+    "Aphelios": {
+        "fraco_contra": [
+            "Ashe",
+            "Samira",
+            "Draven",
+            "Twitch",
+            "Jinx",
+            "Jhin"
+        ],
+        "forte_contra": [
+            "Kai\u2019Sa",
+            "Sivir",
+            "Lucian"
+        ],
+        "bom_com": [
+            "Senna",
+            "Thresh"
+        ]
+    },
+    "Ashe": {
+        "fraco_contra": [
+            "Ezreal",
+            "Caitlyn",
+            "Master Yi",
+            "Xayah",
+            "Sivir",
+            "Draven"
+        ],
+        "forte_contra": [
+            "Vayne",
+            "Kalista",
+            "Udyr",
+            "Corki",
+            "Aphelios",
+            "Darius"
+        ],
+        "bom_com": [
+            "Janna",
+            "Sona",
+            "Zyra",
+            "Leona",
+            "Tryndamere",
+            "Master Yi"
+        ]
+    },
+    "Aurelion Sol": {
+        "fraco_contra": [
+            "Diana",
+            "Zed",
+            "Kled",
+            "Zoe",
+            "Gangplank",
+            "Taliyah"
+        ],
+        "forte_contra": [
+            "Sion",
+            "Yone",
+            "Karthus",
+            "Fiddlesticks",
+            "Nasus",
+            "Veigar"
+        ],
+        "bom_com": [
+            "Tahm Kench",
+            "Braum",
+            "Lucian",
+            "Jhin",
+            "Leona",
+            "Yasuo"
+        ]
+    },
+    "Azir": {
+        "fraco_contra": [
+            "Zed",
+            "Ziggs",
+            "Fizz",
+            "Ahri",
+            "Syndra",
+            "Xerath"
+        ],
+        "forte_contra": [
+            "Heimerdinger",
+            "Yasuo",
+            "Twisted Fate",
+            "Teemo",
+            "Ryze",
+            "Aatrox"
+        ],
+        "bom_com": [
+            "Yasuo",
+            "Jarvan IV",
+            "Amumu",
+            "Aatrox",
+            "Sejuani",
+            "Blitzcrank"
+        ]
+    },
+    "Bardo": {
+        "fraco_contra": [
+            "Leona",
+            "Thresh",
+            "Zoe",
+            "Draven",
+            "Morgana",
+            "Rek'Sai"
+        ],
+        "forte_contra": [
+            "Janna",
+            "Jinx",
+            "Jhin",
+            "Seraphine",
+            "Zed",
+            "Xayah"
+        ],
+        "bom_com": [
+            "Caitlyn",
+            "Sivir",
+            "Vayne",
+            "Udyr",
+            "Kindred",
+            "Ekko"
+        ]
+    },
+    "Blitzcrank": {
+        "fraco_contra": [
+            "Morgana",
+            "Leona",
+            "Alistar",
+            "Ezreal",
+            "Sivir",
+            "Thresh"
+        ],
+        "forte_contra": [
+            "Draven",
+            "Sona",
+            "Soraka",
+            "Varus",
+            "Kog'Maw",
+            "Nami"
+        ],
+        "bom_com": [
+            "Vayne",
+            "Jinx",
+            "Darius",
+            "Draven",
+            "Garen",
+            "Teemo"
+        ]
+    },
+    "Brand": {
+        "fraco_contra": [
+            "Kassadin",
+            "Fizz",
+            "Lux",
+            "LeBlanc",
+            "Galio",
+            "Zed"
+        ],
+        "forte_contra": [
+            "Annie",
+            "Ryze",
+            "Lulu",
+            "Lissandra",
+            "Heimerdinger",
+            "Akali"
+        ],
+        "bom_com": [
+            "Vladimir",
+            "Jarvan IV",
+            "Amumu",
+            "Sona",
+            "Malphite",
+            "Maokai"
+        ]
+    },
+    "Braum": {
+        "fraco_contra": [
+            "Morgana",
+            "Zyra",
+            "Lulu",
+            "Karma",
+            "Alistar",
+            "Leona"
+        ],
+        "forte_contra": [
+            "Jhin",
+            "Galio",
+            "Caitlyn",
+            "Miss Fortune",
+            "Blitzcrank",
+            "Lucian"
+        ],
+        "bom_com": [
+            "Lucian",
+            "Caitlyn",
+            "Vayne",
+            "Yasuo",
+            "Jinx",
+            "Gnar"
+        ]
+    },
+    "Caitlyn": {
+        "fraco_contra": [
+            "Sivir",
+            "Jinx",
+            "Tristana",
+            "Varus",
+            "Lucian",
+            "Kog'Maw"
+        ],
+        "forte_contra": [
+            "Vayne",
+            "Draven",
+            "Twitch",
+            "Ezreal",
+            "Quinn",
+            "Graves"
+        ],
+        "bom_com": [
+            "Thresh",
+            "Lux",
+            "Leona",
+            "Blitzcrank",
+            "Nunu",
+            "Vi"
+        ]
+    },
+    "Camille": {
+        "fraco_contra": [
+            "Malphite",
+            "Poppy",
+            "Jax",
+            "Jayce",
+            "Vladimir",
+            "Zac"
+        ],
+        "forte_contra": [
+            "Yasuo",
+            "Jhin",
+            "Katarina",
+            "Elise",
+            "Sion",
+            "Gangplank"
+        ],
+        "bom_com": [
+            "Orianna",
+            "Thresh",
+            "Taric",
+            "Aatrox",
+            "Blitzcrank",
+            "Shen"
+        ]
+    },
+    "Cassiopeia": {
+        "fraco_contra": [
+            "Galio",
+            "Fizz",
+            "LeBlanc",
+            "Talon",
+            "Diana",
+            "Lux"
+        ],
+        "forte_contra": [
+            "Ryze",
+            "Mordekaiser",
+            "Swain",
+            "Kindred",
+            "Nunu",
+            "Vladimir"
+        ],
+        "bom_com": [
+            "Teemo",
+            "Singed",
+            "Yorick",
+            "Malphite",
+            "Amumu",
+            "Twitch"
+        ]
+    },
+    "Cho'Gath": {
+        "fraco_contra": [
+            "Vayne",
+            "Warwick",
+            "Kog'Maw",
+            "Renekton",
+            "Kayle",
+            "Jax"
+        ],
+        "forte_contra": [
+            "Yorick",
+            "Malphite",
+            "Diana",
+            "Katarina",
+            "Urgot",
+            "Riven"
+        ],
+        "bom_com": [
+            "Poppy",
+            "Yasuo",
+            "Lulu",
+            "Kassadin",
+            "Teemo",
+            "Viktor"
+        ]
+    },
+    "Corki": {
+        "fraco_contra": [
+            "Caitlyn",
+            "Ashe",
+            "Draven",
+            "Kai\u2019Sa",
+            "Urgot",
+            "Kog'Maw"
+        ],
+        "forte_contra": [
+            "Tristana",
+            "Jinx",
+            "Twitch",
+            "Vayne",
+            "Graves",
+            "Ezreal"
+        ],
+        "bom_com": [
+            "Leona",
+            "Thresh",
+            "Blitzcrank",
+            "Sona",
+            "Taric",
+            "Soraka"
+        ]
+    },
+    "Darius": {
+        "fraco_contra": [
+            "Teemo",
+            "Jayce",
+            "Yorick",
+            "Kayle",
+            "Renekton",
+            "Aatrox"
+        ],
+        "forte_contra": [
+            "Yasuo",
+            "Nasus",
+            "Garen",
+            "Irelia",
+            "Wukong",
+            "Riven"
+        ],
+        "bom_com": [
+            "Draven",
+            "Blitzcrank",
+            "Olaf",
+            "Garen",
+            "Fiora",
+            "Pantheon"
+        ]
+    },
+    "Diana": {
+        "fraco_contra": [
+            "Mordekaiser",
+            "Riven",
+            "Irelia",
+            "Swain",
+            "Cho'Gath",
+            "Syndra"
+        ],
+        "forte_contra": [
+            "Katarina",
+            "Fizz",
+            "Ahri",
+            "LeBlanc",
+            "Akali",
+            "Twisted Fate"
+        ],
+        "bom_com": [
+            "Akali",
+            "Yasuo",
+            "Leona",
+            "Kassadin",
+            "Orianna",
+            "Aatrox"
+        ]
+    },
+    "Dr. Mundo": {
+        "fraco_contra": [
+            "Darius",
+            "Trundle",
+            "Kog'Maw",
+            "Olaf",
+            "Miss Fortune",
+            "Fizz"
+        ],
+        "forte_contra": [
+            "Amumu",
+            "Maokai",
+            "Jax",
+            "Nasus",
+            "Singed",
+            "Rammus"
+        ],
+        "bom_com": [
+            "Teemo",
+            "Anivia",
+            "Nidalee",
+            "Aatrox",
+            "Ezreal",
+            "Olaf"
+        ]
+    },
+    "Draven": {
+        "fraco_contra": [
+            "Varus",
+            "Caitlyn",
+            "Blitzcrank",
+            "Thresh",
+            "Nami",
+            "Quinn"
+        ],
+        "forte_contra": [
+            "Vayne",
+            "Ezreal",
+            "Tristana",
+            "Jinx",
+            "Lucian",
+            "Miss Fortune"
+        ],
+        "bom_com": [
+            "Darius",
+            "Leona",
+            "Blitzcrank",
+            "Thresh",
+            "Morgana",
+            "Taric"
+        ]
+    },
+    "Ekko": {
+        "fraco_contra": [
+            "LeBlanc",
+            "Ahri",
+            "Fiora",
+            "Vladimir",
+            "Malzahar",
+            "Viktor"
+        ],
+        "forte_contra": [
+            "Ziggs",
+            "Katarina",
+            "Zilean",
+            "Xerath",
+            "Kindred",
+            "Aatrox"
+        ],
+        "bom_com": [
+            "Gnar",
+            "Kennen",
+            "Amumu",
+            "Sejuani",
+            "Tahm Kench",
+            "Bardo"
+        ]
+    },
+    "Elise": {
+        "fraco_contra": [
+            "Wukong",
+            "Kassadin",
+            "Camille",
+            "Yorick",
+            "Mordekaiser",
+            "LeBlanc"
+        ],
+        "forte_contra": [
+            "Renekton",
+            "Garen",
+            "Kayn",
+            "Singed",
+            "Pantheon",
+            "Darius"
+        ],
+        "bom_com": [
+            "Rengar",
+            "Karma",
+            "Orianna",
+            "Blitzcrank",
+            "Leona",
+            "Ahri"
+        ]
+    },
+    "Evelynn": {
+        "fraco_contra": [
+            "Ryze",
+            "Rek'Sai",
+            "Lee Sin",
+            "Twisted Fate",
+            "Mordekaiser",
+            "Kassadin"
+        ],
+        "forte_contra": [
+            "Gragas",
+            "Karthus",
+            "Nidalee",
+            "Lux",
+            "Amumu",
+            "Lillia"
+        ],
+        "bom_com": [
+            "Shen",
+            "Orianna",
+            "Cho'Gath",
+            "Udyr",
+            "Zilean",
+            "Rengar"
+        ]
+    },
+    "Ezreal": {
+        "fraco_contra": [
+            "Draven",
+            "Caitlyn",
+            "Miss Fortune",
+            "Vayne",
+            "Graves",
+            "Twitch"
+        ],
+        "forte_contra": [
+            "Jinx",
+            "Ashe",
+            "Blitzcrank",
+            "Lucian",
+            "Thresh",
+            "Nami"
+        ],
+        "bom_com": [
+            "Lux",
+            "Sona",
+            "Soraka",
+            "Taric",
+            "Leona",
+            "Blitzcrank"
+        ]
+    },
+    "Fiddlesticks": {
+        "fraco_contra": [
+            "Janna",
+            "Xin Zhao",
+            "Diana",
+            "Alistar",
+            "Tristana",
+            "Kassadin"
+        ],
+        "forte_contra": [
+            "Katarina",
+            "Vladimir",
+            "Akali",
+            "Fizz",
+            "Master Yi",
+            "Zed"
+        ],
+        "bom_com": [
+            "Kennen",
+            "Orianna",
+            "Amumu",
+            "Jarvan IV",
+            "Zoe",
+            "Wukong"
+        ]
+    },
+    "Fiora": {
+        "fraco_contra": [
+            "Pantheon",
+            "Jax",
+            "Malphite",
+            "Renekton",
+            "Darius",
+            "Rammus"
+        ],
+        "forte_contra": [
+            "Yasuo",
+            "Ekko",
+            "Gangplank",
+            "Aatrox",
+            "Gnar",
+            "Rengar"
+        ],
+        "bom_com": [
+            "Morgana",
+            "Amumu",
+            "Jarvan IV",
+            "Darius",
+            "Blitzcrank",
+            "Ahri"
+        ]
+    },
+    "Fizz": {
+        "fraco_contra": [
+            "Ryze",
+            "Diana",
+            "Akali",
+            "Lissandra",
+            "Mordekaiser",
+            "Annie"
+        ],
+        "forte_contra": [
+            "Veigar",
+            "Katarina",
+            "Lux",
+            "Syndra",
+            "Twisted Fate",
+            "Anivia"
+        ],
+        "bom_com": [
+            "Nami",
+            "Amumu",
+            "Jarvan IV",
+            "Aatrox",
+            "Rammus",
+            "Malphite"
+        ]
+    },
+    "Galio": {
+        "fraco_contra": [
+            "Udyr",
+            "Janna",
+            "Braum",
+            "Darius",
+            "Yasuo",
+            "Thresh"
+        ],
+        "forte_contra": [
+            "LeBlanc",
+            "Cassiopeia",
+            "Brand",
+            "Malzahar",
+            "Katarina",
+            "Zoe"
+        ],
+        "bom_com": [
+            "Amumu",
+            "Jarvan IV",
+            "Camille",
+            "Rek'Sai",
+            "Thresh",
+            "Xayah"
+        ]
+    },
+    "Gangplank": {
+        "fraco_contra": [
+            "Pantheon",
+            "Fiora",
+            "Irelia",
+            "Riven",
+            "Poppy",
+            "Jax"
+        ],
+        "forte_contra": [
+            "Malzahar",
+            "Morgana",
+            "Aurelion Sol",
+            "Kassadin",
+            "Elise",
+            "Urgot"
+        ],
+        "bom_com": [
+            "Twisted Fate",
+            "Pantheon",
+            "Amumu",
+            "Nunu",
+            "Zac",
+            "Hecarim"
+        ]
+    },
+    "Garen": {
+        "fraco_contra": [
+            "Teemo",
+            "Darius",
+            "Pantheon",
+            "Yorick",
+            "Jayce",
+            "Gnar"
+        ],
+        "forte_contra": [
+            "Riven",
+            "Renekton",
+            "Nasus",
+            "Jax",
+            "Akali",
+            "Wukong"
+        ],
+        "bom_com": [
+            "Lux",
+            "Xin Zhao",
+            "Blitzcrank",
+            "Darius",
+            "Amumu",
+            "Kled"
+        ]
+    },
+    "Gnar": {
+        "fraco_contra": [
+            "Riven",
+            "Irelia",
+            "Fiora",
+            "Pantheon",
+            "Teemo",
+            "Kled"
+        ],
+        "forte_contra": [
+            "Garen",
+            "Soraka",
+            "Nasus",
+            "Singed",
+            "Jax",
+            "Tahm Kench"
+        ],
+        "bom_com": [
+            "Ekko",
+            "Lulu",
+            "Jarvan IV",
+            "Aatrox",
+            "Orianna",
+            "Braum"
+        ]
+    },
+    "Gragas": {
+        "fraco_contra": [
+            "Yasuo",
+            "Fizz",
+            "Ahri",
+            "Evelynn",
+            "LeBlanc",
+            "Mordekaiser"
+        ],
+        "forte_contra": [
+            "Lux",
+            "Orianna",
+            "Katarina",
+            "Kayle",
+            "Seraphine",
+            "Akali"
+        ],
+        "bom_com": [
+            "Yasuo",
+            "Kha'Zix",
+            "Kindred",
+            "Ashe",
+            "Malphite",
+            "Aatrox"
+        ]
+    },
+    "Graves": {
+        "fraco_contra": [
+            "Caitlyn",
+            "Sivir",
+            "Miss Fortune",
+            "Urgot",
+            "Corki",
+            "Draven"
+        ],
+        "forte_contra": [
+            "Ezreal",
+            "Vayne",
+            "Varus",
+            "Ashe",
+            "Lucian",
+            "Illaoi"
+        ],
+        "bom_com": [
+            "Taric",
+            "Sona",
+            "Soraka",
+            "Leona",
+            "Blitzcrank",
+            "Nami"
+        ]
+    },
+    "Gwen": {
+        "fraco_contra": [
+            "Fiora",
+            "Jax",
+            "Teemo",
+            "Camille",
+            "Garen",
+            "Gangplank"
+        ],
+        "forte_contra": [
+            "Qiyana",
+            "Yone",
+            "Yorick",
+            "Rammus",
+            "Yasuo",
+            "Cho'Gath"
+        ],
+        "bom_com": [
+            "Yuumi",
+            "Soraka",
+            "Sona",
+            "Lulu"
+        ]
+    },
+    "Hecarim": {
+        "fraco_contra": [
+            "Nasus",
+            "Sejuani",
+            "Aatrox",
+            "Vi",
+            "Dr. Mundo",
+            "Udyr"
+        ],
+        "forte_contra": [
+            "Kha'Zix",
+            "Soraka",
+            "Riven",
+            "Elise",
+            "Rengar",
+            "Ahri"
+        ],
+        "bom_com": [
+            "Jayce",
+            "Kled",
+            "Zilean",
+            "Janna",
+            "Orianna",
+            "Lulu"
+        ]
+    },
+    "Heimerdinger": {
+        "fraco_contra": [
+            "Syndra",
+            "Ziggs",
+            "Azir",
+            "Lux",
+            "Xerath",
+            "Vel'Koz"
+        ],
+        "forte_contra": [
+            "Kassadin",
+            "Katarina",
+            "Akali",
+            "Diana",
+            "Fizz",
+            "Yone"
+        ],
+        "bom_com": [
+            "Skarner",
+            "Blitzcrank",
+            "Amumu",
+            "Thresh",
+            "Teemo",
+            "Darius"
+        ]
+    },
+    "Illaoi": {
+        "fraco_contra": [
+            "Lulu",
+            "Tryndamere",
+            "Tahm Kench",
+            "Vayne",
+            "Zed",
+            "Graves"
+        ],
+        "forte_contra": [
+            "Master Yi",
+            "Shaco",
+            "Lee Sin",
+            "Yasuo",
+            "Heimerdinger",
+            "Yone"
+        ],
+        "bom_com": [
+            "Morgana",
+            "Leona",
+            "Blitzcrank",
+            "Vi",
+            "Nautilus",
+            "Jax"
+        ]
+    },
+    "Irelia": {
+        "fraco_contra": [
+            "Olaf",
+            "Darius",
+            "Renekton",
+            "Nasus",
+            "Jax",
+            "Udyr"
+        ],
+        "forte_contra": [
+            "Zed",
+            "Gnar",
+            "Gangplank",
+            "Jayce",
+            "Diana",
+            "Vladimir"
+        ],
+        "bom_com": [
+            "Riven",
+            "Ahri",
+            "Akali",
+            "Malphite",
+            "Orianna",
+            "Lee Sin"
+        ]
+    },
+    "Ivern": {
+        "fraco_contra": [
+            "Rengar",
+            "Xin Zhao",
+            "Teemo",
+            "Poppy",
+            "Nunu",
+            "Xayah"
+        ],
+        "forte_contra": [
+            "Jhin",
+            "Yasuo",
+            "Udyr",
+            "Bardo",
+            "Lillia",
+            "Ahri"
+        ],
+        "bom_com": [
+            "Rengar",
+            "Olaf",
+            "Caitlyn",
+            "Riven",
+            "Ezreal",
+            "Orianna"
+        ]
+    },
+    "Janna": {
+        "fraco_contra": [
+            "Sona",
+            "Jinx",
+            "Bardo",
+            "Blitzcrank",
+            "Sivir",
+            "Diana"
+        ],
+        "forte_contra": [
+            "Leona",
+            "Alistar",
+            "Thresh",
+            "Galio",
+            "Kennen",
+            "Fiddlesticks"
+        ],
+        "bom_com": [
+            "Yasuo",
+            "Ashe",
+            "Draven",
+            "Caitlyn",
+            "Vayne",
+            "Hecarim"
+        ]
+    },
+    "Jarvan IV": {
+        "fraco_contra": [
+            "Shen",
+            "Vi",
+            "Jax",
+            "Yorick",
+            "Kindred",
+            "Elise"
+        ],
+        "forte_contra": [
+            "Jhin",
+            "Vladimir",
+            "Kayle",
+            "Ryze",
+            "Jayce",
+            "Olaf"
+        ],
+        "bom_com": [
+            "Fiora",
+            "Gnar",
+            "Fizz",
+            "Orianna",
+            "Xin Zhao",
+            "Wukong"
+        ]
+    },
+    "Jax": {
+        "fraco_contra": [
+            "Malphite",
+            "Garen",
+            "Renekton",
+            "Pantheon",
+            "Singed",
+            "Jayce"
+        ],
+        "forte_contra": [
+            "Yasuo",
+            "Master Yi",
+            "Aatrox",
+            "Riven",
+            "Xin Zhao",
+            "Fiora"
+        ],
+        "bom_com": [
+            "Ahri",
+            "Ryze",
+            "Orianna",
+            "Pantheon",
+            "Poppy",
+            "Zilean"
+        ]
+    },
+    "Jayce": {
+        "fraco_contra": [
+            "Yorick",
+            "Irelia",
+            "Fiora",
+            "Wukong",
+            "Xin Zhao",
+            "Nidalee"
+        ],
+        "forte_contra": [
+            "Darius",
+            "Garen",
+            "Teemo",
+            "Jax",
+            "Shen",
+            "Singed"
+        ],
+        "bom_com": [
+            "Hecarim",
+            "Blitzcrank",
+            "Leona",
+            "Nidalee",
+            "Soraka",
+            "Skarner"
+        ]
+    },
+    "Jhin": {
+        "fraco_contra": [
+            "Yasuo",
+            "Lucian",
+            "Kassadin",
+            "Braum",
+            "Fizz",
+            "Jarvan IV"
+        ],
+        "forte_contra": [
+            "Sona",
+            "Twisted Fate",
+            "Heimerdinger",
+            "Tryndamere",
+            "Aphelios",
+            "Ryze"
+        ],
+        "bom_com": [
+            "Morgana",
+            "Leona",
+            "Nautilus",
+            "Blitzcrank",
+            "Thresh",
+            "Rakan"
+        ]
+    },
+    "Jinx": {
+        "fraco_contra": [
+            "Ezreal",
+            "Lucian",
+            "Draven",
+            "Sivir",
+            "Corki",
+            "Varus"
+        ],
+        "forte_contra": [
+            "Caitlyn",
+            "Twitch",
+            "Kog'Maw",
+            "Janna",
+            "Xayah",
+            "Ashe"
+        ],
+        "bom_com": [
+            "Morgana",
+            "Thresh",
+            "Blitzcrank",
+            "Leona",
+            "Lux",
+            "Annie"
+        ]
+    },
+    "Kai\u2019Sa": {
+        "fraco_contra": [
+            "Caitlyn",
+            "Tristana",
+            "Vayne",
+            "Pyke",
+            "Tahm Kench",
+            "Aphelios"
+        ],
+        "forte_contra": [
+            "Jhin",
+            "Corki",
+            "Ashe",
+            "LeBlanc",
+            "Zoe",
+            "Twitch"
+        ],
+        "bom_com": [
+            "Leona",
+            "Morgana",
+            "Alistar",
+            "Taric",
+            "Yuumi",
+            "Malphite"
+        ]
+    },
+    "Kalista": {
+        "fraco_contra": [
+            "Ashe",
+            "Master Yi",
+            "Caitlyn",
+            "Alistar",
+            "Kindred",
+            "Talon"
+        ],
+        "forte_contra": [
+            "Tahm Kench",
+            "Ezreal",
+            "Thresh",
+            "Neeko",
+            "Xerath",
+            "Vel'Koz"
+        ],
+        "bom_com": [
+            "Annie",
+            "Malphite",
+            "Alistar",
+            "Tahm Kench",
+            "Leona",
+            "Amumu"
+        ]
+    },
+    "Karma": {
+        "fraco_contra": [
+            "Veigar",
+            "Nami",
+            "Swain",
+            "Malzahar",
+            "Talon",
+            "Xerath"
+        ],
+        "forte_contra": [
+            "Morgana",
+            "Braum",
+            "Leona",
+            "Vi",
+            "Yuumi",
+            "LeBlanc"
+        ],
+        "bom_com": [
+            "Lucian",
+            "Caitlyn",
+            "Vayne",
+            "Ezreal",
+            "Jinx",
+            "Xayah"
+        ]
+    },
+    "Karthus": {
+        "fraco_contra": [
+            "Katarina",
+            "Ahri",
+            "Lux",
+            "Kassadin",
+            "Veigar",
+            "Soraka"
+        ],
+        "forte_contra": [
+            "Heimerdinger",
+            "Teemo",
+            "Annie",
+            "Viktor",
+            "Nidalee",
+            "Malzahar"
+        ],
+        "bom_com": [
+            "Yorick",
+            "Kayle",
+            "Soraka",
+            "Amumu",
+            "Vladimir",
+            "Lee Sin"
+        ]
+    },
+    "Kassadin": {
+        "fraco_contra": [
+            "Talon",
+            "Zed",
+            "Heimerdinger",
+            "Pantheon",
+            "Mordekaiser",
+            "Kha'Zix"
+        ],
+        "forte_contra": [
+            "Katarina",
+            "Veigar",
+            "Ahri",
+            "Lux",
+            "Jhin",
+            "Brand"
+        ],
+        "bom_com": [
+            "Lee Sin",
+            "Diana",
+            "Cho'Gath",
+            "Aatrox",
+            "Maokai",
+            "Amumu"
+        ]
+    },
+    "Katarina": {
+        "fraco_contra": [
+            "Diana",
+            "Fizz",
+            "Malzahar",
+            "Kassadin",
+            "Lissandra",
+            "Fiddlesticks"
+        ],
+        "forte_contra": [
+            "Lux",
+            "Karthus",
+            "Veigar",
+            "Nidalee",
+            "Vel'Koz",
+            "Zyra"
+        ],
+        "bom_com": [
+            "Morgana",
+            "Amumu",
+            "Malphite",
+            "Wukong",
+            "Kayle",
+            "Akali"
+        ]
+    },
+    "Kayle": {
+        "fraco_contra": [
+            "Pantheon",
+            "Xin Zhao",
+            "Annie",
+            "Anivia",
+            "Ziggs",
+            "Gragas"
+        ],
+        "forte_contra": [
+            "Zed",
+            "Yasuo",
+            "Darius",
+            "Singed",
+            "Fizz",
+            "Olaf"
+        ],
+        "bom_com": [
+            "Nasus",
+            "Tryndamere",
+            "Katarina",
+            "Karthus",
+            "Ezreal",
+            "Zed"
+        ]
+    },
+    "Kayn": {
+        "fraco_contra": [
+            "Tryndamere",
+            "Fiora",
+            "Singed",
+            "Elise",
+            "Kayle",
+            "Vayne"
+        ],
+        "forte_contra": [
+            "Ashe",
+            "Zoe",
+            "Twitch",
+            "Katarina",
+            "Gangplank",
+            "Shen"
+        ],
+        "bom_com": [
+            "Yasuo",
+            "Malzahar",
+            "Thresh",
+            "Ahri",
+            "Orianna",
+            "Singed"
+        ]
+    },
+    "Kennen": {
+        "fraco_contra": [
+            "Ryze",
+            "Swain",
+            "Janna",
+            "Yorick",
+            "Diana",
+            "Irelia"
+        ],
+        "forte_contra": [
+            "Riven",
+            "Olaf",
+            "Singed",
+            "Poppy",
+            "Darius",
+            "Katarina"
+        ],
+        "bom_com": [
+            "Ekko",
+            "Vladimir",
+            "Amumu",
+            "Fiddlesticks",
+            "Jarvan IV",
+            "Ziggs"
+        ]
+    },
+    "Kha'Zix": {
+        "fraco_contra": [
+            "Lee Sin",
+            "Tryndamere",
+            "Jax",
+            "Poppy",
+            "Shen",
+            "Rengar"
+        ],
+        "forte_contra": [
+            "Ashe",
+            "Sivir",
+            "Kassadin",
+            "Twisted Fate",
+            "Yasuo",
+            "Lux"
+        ],
+        "bom_com": [
+            "Rengar",
+            "Nasus",
+            "Xin Zhao",
+            "Blitzcrank",
+            "Gragas",
+            "Syndra"
+        ]
+    },
+    "Kindred": {
+        "fraco_contra": [
+            "Ekko",
+            "Lee Sin",
+            "Cassiopeia",
+            "Yasuo",
+            "Aatrox",
+            "Ryze"
+        ],
+        "forte_contra": [
+            "Soraka",
+            "Kalista",
+            "Jinx",
+            "Jarvan IV",
+            "Zed",
+            "Kassadin"
+        ],
+        "bom_com": [
+            "Lux",
+            "Bardo",
+            "Kled",
+            "Alistar",
+            "Gragas",
+            "Janna"
+        ]
+    },
+    "Kled": {
+        "fraco_contra": [
+            "Fiora",
+            "Lux",
+            "Tristana",
+            "Urgot",
+            "Annie",
+            "Kennen"
+        ],
+        "forte_contra": [
+            "Aurelion Sol",
+            "Gnar",
+            "Riven",
+            "Katarina",
+            "Lee Sin",
+            "Wukong"
+        ],
+        "bom_com": [
+            "Hecarim",
+            "Lulu",
+            "Garen",
+            "Kindred",
+            "Bardo",
+            "Rakan"
+        ]
+    },
+    "Kog'Maw": {
+        "fraco_contra": [
+            "Jinx",
+            "Blitzcrank",
+            "Miss Fortune",
+            "Lucian",
+            "Nautilus",
+            "Ezreal"
+        ],
+        "forte_contra": [
+            "Dr. Mundo",
+            "Caitlyn",
+            "Cho'Gath",
+            "Vayne",
+            "Sivir",
+            "Corki"
+        ],
+        "bom_com": [
+            "Nunu",
+            "Lulu",
+            "Soraka",
+            "Nami",
+            "Leona",
+            "Taric"
+        ]
+    },
+    "LeBlanc": {
+        "fraco_contra": [
+            "Galio",
+            "Diana",
+            "Fizz",
+            "Morgana",
+            "Syndra",
+            "Mordekaiser"
+        ],
+        "forte_contra": [
+            "Ahri",
+            "Ekko",
+            "Orianna",
+            "Ziggs",
+            "Vel'Koz",
+            "Katarina"
+        ],
+        "bom_com": [
+            "Veigar",
+            "Akali",
+            "Udyr",
+            "Aatrox",
+            "Maokai",
+            "Amumu"
+        ]
+    },
+    "Lee Sin": {
+        "fraco_contra": [
+            "Trundle",
+            "Renekton",
+            "Udyr",
+            "Illaoi",
+            "Garen",
+            "Pantheon"
+        ],
+        "forte_contra": [
+            "Akali",
+            "Shaco",
+            "Kha'Zix",
+            "Talon",
+            "Wukong",
+            "Twitch"
+        ],
+        "bom_com": [
+            "Teemo",
+            "Yasuo",
+            "Ryze",
+            "Aatrox",
+            "Kassadin",
+            "Warwick"
+        ]
+    },
+    "Leona": {
+        "fraco_contra": [
+            "Morgana",
+            "Alistar",
+            "Janna",
+            "Lulu",
+            "Tahm Kench",
+            "Karma"
+        ],
+        "forte_contra": [
+            "Blitzcrank",
+            "Bardo",
+            "Sona",
+            "Varus",
+            "Nami",
+            "Draven"
+        ],
+        "bom_com": [
+            "Draven",
+            "Jinx",
+            "Lucian",
+            "Jhin",
+            "Caitlyn",
+            "Vayne"
+        ]
+    },
+    "Lillia": {
+        "fraco_contra": [
+            "Viego",
+            "Rengar",
+            "Evelynn",
+            "Rek'Sai",
+            "Fiddlesticks",
+            "Skarner"
+        ],
+        "forte_contra": [
+            "Volibear",
+            "Warwick",
+            "Poppy",
+            "Nidalee",
+            "Jax",
+            "Gragas"
+        ],
+        "bom_com": []
+    },
+    "Lissandra": {
+        "fraco_contra": [
+            "Kassadin",
+            "Brand",
+            "Diana",
+            "Anivia",
+            "Syndra",
+            "Twisted Fate"
+        ],
+        "forte_contra": [
+            "Zed",
+            "Katarina",
+            "Fizz",
+            "Akali",
+            "Yasuo",
+            "Ornn"
+        ],
+        "bom_com": [
+            "Trundle",
+            "Sejuani",
+            "Amumu",
+            "Ashe",
+            "Rek'Sai",
+            "Nunu"
+        ]
+    },
+    "Lucian": {
+        "fraco_contra": [
+            "Vayne",
+            "Draven",
+            "Tristana",
+            "Ezreal",
+            "Caitlyn",
+            "Graves"
+        ],
+        "forte_contra": [
+            "Jinx",
+            "Jhin",
+            "Varus",
+            "Xayah",
+            "Caitlyn",
+            "Thresh"
+        ],
+        "bom_com": [
+            "Braum",
+            "Thresh",
+            "Leona",
+            "Annie",
+            "Nami",
+            "Karma"
+        ]
+    },
+    "Lulu": {
+        "fraco_contra": [
+            "Sona",
+            "Soraka",
+            "Brand",
+            "Morgana",
+            "Syndra",
+            "Ziggs"
+        ],
+        "forte_contra": [
+            "Illaoi",
+            "Thresh",
+            "Leona",
+            "Katarina",
+            "Braum",
+            "Rakan"
+        ],
+        "bom_com": [
+            "Nasus",
+            "Gnar",
+            "Tristana",
+            "Renekton",
+            "Xayah",
+            "Cho'Gath"
+        ]
+    },
+    "Lux": {
+        "fraco_contra": [
+            "Fizz",
+            "Yasuo",
+            "Zed",
+            "Talon",
+            "Katarina",
+            "Kassadin"
+        ],
+        "forte_contra": [
+            "Annie",
+            "Ryze",
+            "Karthus",
+            "Malzahar",
+            "Heimerdinger",
+            "Brand"
+        ],
+        "bom_com": [
+            "Garen",
+            "Jinx",
+            "Caitlyn",
+            "Ezreal",
+            "Master Yi",
+            "Kindred"
+        ]
+    },
+    "Malphite": {
+        "fraco_contra": [
+            "Rumble",
+            "Vladimir",
+            "Cho'Gath",
+            "Shen",
+            "Yorick",
+            "Zac"
+        ],
+        "forte_contra": [
+            "Jax",
+            "Camille",
+            "Fiora",
+            "Tryndamere",
+            "Pantheon",
+            "Xin Zhao"
+        ],
+        "bom_com": [
+            "Yasuo",
+            "Katarina",
+            "Orianna",
+            "Irelia",
+            "Kalista",
+            "Cassiopeia"
+        ]
+    },
+    "Malzahar": {
+        "fraco_contra": [
+            "Lux",
+            "Gangplank",
+            "Galio",
+            "Syndra",
+            "Talon",
+            "Morgana"
+        ],
+        "forte_contra": [
+            "Katarina",
+            "Ekko",
+            "Vladimir",
+            "Yasuo",
+            "Akali",
+            "Mordekaiser"
+        ],
+        "bom_com": [
+            "Warwick",
+            "Skarner",
+            "Amumu",
+            "Jarvan IV",
+            "Kayn",
+            "Nocturne"
+        ]
+    },
+    "Maokai": {
+        "fraco_contra": [
+            "Nasus",
+            "Shyvana",
+            "Dr. Mundo",
+            "Yorick",
+            "Swain",
+            "Shaco"
+        ],
+        "forte_contra": [
+            "Riven",
+            "Seraphine",
+            "Elise",
+            "Karthus",
+            "Kassadin",
+            "Katarina"
+        ],
+        "bom_com": [
+            "Veigar",
+            "Ryze",
+            "Swain",
+            "LeBlanc",
+            "Kassadin",
+            "Orianna"
+        ]
+    },
+    "Master Yi": {
+        "fraco_contra": [
+            "Jax",
+            "Rammus",
+            "Illaoi",
+            "Teemo",
+            "Pantheon",
+            "Aatrox"
+        ],
+        "forte_contra": [
+            "Ashe",
+            "Kalista",
+            "Lux",
+            "Karthus",
+            "Katarina",
+            "Heimerdinger"
+        ],
+        "bom_com": [
+            "Lux",
+            "Morgana",
+            "Ashe",
+            "Amumu",
+            "Darius",
+            "Aatrox"
+        ]
+    },
+    "Milio": {
+        "fraco_contra": [
+            "Senna",
+            "Xerath",
+            "Vel'Koz",
+            "Heimerdinger",
+            "Neeko",
+            "Zyra"
+        ],
+        "forte_contra": [
+            
+        ],
+        "bom_com": [
+            "Kog'Maw",
+            "Ashe",
+            "Vayne",
+            "Miss Fortune",
+            "Varus",
+            "Lucian"
+        ]
+    },
+    "Miss Fortune": {
+        "fraco_contra": [
+            "Tristana",
+            "Draven",
+            "Caitlyn",
+            "Varus",
+            "Quinn",
+            "Taric"
+        ],
+        "forte_contra": [
+            "Ezreal",
+            "Soraka",
+            "Sivir",
+            "Graves",
+            "Vayne",
+            "Kog'Maw"
+        ],
+        "bom_com": [
+            "Sona",
+            "Thresh",
+            "Leona",
+            "Blitzcrank",
+            "Zyra",
+            "Nami"
+        ]
+    },
+    "Mordekaiser": {
+        "fraco_contra": [
+            "Cassiopeia",
+            "Swain",
+            "Zyra",
+            "Malzahar",
+            "Skarner",
+            "Garen"
+        ],
+        "forte_contra": [
+            "Diana",
+            "Fizz",
+            "Akali",
+            "Kassadin",
+            "Talon",
+            "LeBlanc"
+        ],
+        "bom_com": [
+            "Yorick",
+            "Amumu",
+            "Malphite",
+            "Wukong",
+            "Warwick",
+            "Skarner"
+        ]
+    },
+    "Morgana": {
+        "fraco_contra": [
+            "Talon",
+            "Karma",
+            "Vladimir",
+            "Gangplank",
+            "Fizz",
+            "Mordekaiser"
+        ],
+        "forte_contra": [
+            "Blitzcrank",
+            "Thresh",
+            "Leona",
+            "Braum",
+            "Annie",
+            "LeBlanc"
+        ],
+        "bom_com": [
+            "Jinx",
+            "Jhin",
+            "Katarina",
+            "Draven",
+            "Fiora",
+            "Illaoi"
+        ]
+    },
+    "Nami": {
+        "fraco_contra": [
+            "Ezreal",
+            "Leona",
+            "Blitzcrank",
+            "Lulu",
+            "Fizz",
+            "Braum"
+        ],
+        "forte_contra": [
+            "Draven",
+            "Karma",
+            "Taric",
+            "Katarina",
+            "Annie",
+            "Aatrox"
+        ],
+        "bom_com": [
+            "Vayne",
+            "Fizz",
+            "Lucian",
+            "Twitch",
+            "Jinx",
+            "Syndra"
+        ]
+    },
+    "Nasus": {
+        "fraco_contra": [
+            "Darius",
+            "Teemo",
+            "Garen",
+            "Rumble",
+            "Pantheon",
+            "Riven"
+        ],
+        "forte_contra": [
+            "Irelia",
+            "Hecarim",
+            "Wukong",
+            "Maokai",
+            "Tryndamere",
+            "Aatrox"
+        ],
+        "bom_com": [
+            "Lulu",
+            "Renekton",
+            "Zed",
+            "Kayle",
+            "Kha'Zix",
+            "Aatrox"
+        ]
+    },
+    "Nautilus": {
+        "fraco_contra": [
+            "Shyvana",
+            "Yorick",
+            "Trundle",
+            "Vi",
+            "Sylas",
+            "Udyr"
+        ],
+        "forte_contra": [
+            "Katarina",
+            "Kog'Maw",
+            "Riven",
+            "Evelynn",
+            "Malphite",
+            "Jax"
+        ],
+        "bom_com": [
+            "Jhin",
+            "Yasuo",
+            "Varus",
+            "Ashe",
+            "Illaoi",
+            "Ezreal"
+        ]
+    },
+    "Neeko": {
+        "fraco_contra": [
+            "Veigar",
+            "Kalista",
+            "Lulu",
+            "Katarina",
+            "Shen",
+            "Varus"
+        ],
+        "forte_contra": [
+            "Garen",
+            "Kayn",
+            "Zac",
+            "Lissandra",
+            "Jinx",
+            "Morgana"
+        ],
+        "bom_com": [
+            "Pyke",
+            "Morgana",
+            "Lux",
+            "Leona",
+            "Shaco",
+            "Nidalee"
+        ]
+    },
+    "Nidalee": {
+        "fraco_contra": [
+            "Yasuo",
+            "Katarina",
+            "Akali",
+            "Pantheon",
+            "Veigar",
+            "Fizz"
+        ],
+        "forte_contra": [
+            "Jayce",
+            "Lux",
+            "Karthus",
+            "Garen",
+            "Singed",
+            "Gnar"
+        ],
+        "bom_com": [
+            "Jayce",
+            "Dr. Mundo",
+            "Caitlyn",
+            "Varus",
+            "Jinx",
+            "Neeko"
+        ]
+    },
+    "Nocturne": {
+        "fraco_contra": [
+            "Olaf",
+            "Jax",
+            "Shyvana",
+            "Udyr",
+            "Vi",
+            "Graves"
+        ],
+        "forte_contra": [
+            "Twisted Fate",
+            "Lee Sin",
+            "Veigar",
+            "Darius",
+            "Shen",
+            "Xin Zhao"
+        ],
+        "bom_com": [
+            "Twisted Fate",
+            "Rengar",
+            "Malzahar",
+            "Shen",
+            "Orianna",
+            "Twitch"
+        ]
+    },
+    "Nunu": {
+        "fraco_contra": [
+            "Cassiopeia",
+            "Soraka",
+            "Sona",
+            "Riven",
+            "Sivir",
+            "Janna"
+        ],
+        "forte_contra": [
+            "Yorick",
+            "Heimerdinger",
+            "Teemo",
+            "Jax",
+            "Tryndamere",
+            "Singed"
+        ],
+        "bom_com": [
+            "Vayne",
+            "Caitlyn",
+            "Gangplank",
+            "Kog'Maw",
+            "Ashe",
+            "Draven"
+        ]
+    },
+    "Olaf": {
+        "fraco_contra": [
+            "Kennen",
+            "Volibear",
+            "Kayle",
+            "Yorick",
+            "Pantheon",
+            "Tahm Kench"
+        ],
+        "forte_contra": [
+            "Irelia",
+            "Riven",
+            "Poppy",
+            "Shyvana",
+            "Wukong",
+            "Dr. Mundo"
+        ],
+        "bom_com": [
+            "Darius",
+            "Blitzcrank",
+            "Amumu",
+            "Aatrox",
+            "Skarner",
+            "Ivern"
+        ]
+    },
+    "Orianna": {
+        "fraco_contra": [
+            "LeBlanc",
+            "Ahri",
+            "Zed",
+            "Syndra",
+            "Diana",
+            "Gragas"
+        ],
+        "forte_contra": [
+            "Annie",
+            "Ryze",
+            "Anivia",
+            "Karthus",
+            "Kayle",
+            "Heimerdinger"
+        ],
+        "bom_com": [
+            "Malphite",
+            "Jax",
+            "Wukong",
+            "Jarvan IV",
+            "Yasuo",
+            "Riven"
+        ]
+    },
+    "Ornn": {
+        "fraco_contra": [
+            "Fiora",
+            "Poppy",
+            "Lissandra",
+            "Vayne",
+            "Braum",
+            "Lucian"
+        ],
+        "forte_contra": [
+            "Anivia",
+            "Taliyah",
+            "Jarvan IV",
+            "Trundle",
+            "Ekko",
+            "Nautilus"
+        ],
+        "bom_com": [
+            "Yasuo",
+            "Leona",
+            "Nautilus",
+            "Ashe",
+            "Morgana",
+            "Annie"
+        ]
+    },
+    "Pantheon": {
+        "fraco_contra": [
+            "Shen",
+            "Malphite",
+            "Yorick",
+            "Udyr",
+            "Darius",
+            "Elise"
+        ],
+        "forte_contra": [
+            "Fiora",
+            "Riven",
+            "Teemo",
+            "Gangplank",
+            "Garen",
+            "Jax"
+        ],
+        "bom_com": [
+            "Jax",
+            "Darius",
+            "Xin Zhao",
+            "Taric",
+            "Gangplank",
+            "Sion"
+        ]
+    },
+    "Poppy": {
+        "fraco_contra": [
+            "Olaf",
+            "Darius",
+            "Teemo",
+            "Rumble",
+            "Kennen",
+            "Lillia"
+        ],
+        "forte_contra": [
+            "Camille",
+            "Riven",
+            "Kha'Zix",
+            "Jax",
+            "Tryndamere",
+            "Gangplank"
+        ],
+        "bom_com": [
+            "Jax",
+            "Cho'Gath",
+            "Anivia",
+            "Aatrox",
+            "Vayne",
+            "Taliyah"
+        ]
+    },
+    "Pyke": {
+        "fraco_contra": [
+            "Morgana",
+            "Zyra",
+            "Sivir",
+            "Fizz",
+            "Xayah",
+            "Master Yi"
+        ],
+        "forte_contra": [
+            "Kai\u2019Sa",
+            "Varus",
+            "Caitlyn",
+            "Kindred",
+            "Senna",
+            "Evelynn"
+        ],
+        "bom_com": [
+            "Xayah",
+            "Neeko",
+            "Miss Fortune",
+            "Twitch",
+            "Varus",
+            "Sett"
+        ]
+    },
+    "Qiyana": {
+        "fraco_contra": [
+            "Veigar",
+            "Viego",
+            "Gwen",
+            "Jayce",
+            "Akali",
+            "Yasuo"
+        ],
+        "forte_contra": [
+            "Taliyah",
+            "Azir",
+            "Katarina",
+            "Kassadin",
+            "Twisted Fate",
+            "Cho'Gath"
+        ],
+        "bom_com": [
+            "Taliyah",
+            "Yasuo",
+            "Jarvan IV"
+        ]
+    },
+    "Quinn": {
+        "fraco_contra": [
+            "Caitlyn",
+            "Varus",
+            "Tristana",
+            "Graves",
+            "Miss Fortune",
+            "Pantheon"
+        ],
+        "forte_contra": [
+            "Vayne",
+            "Draven",
+            "Miss Fortune",
+            "Twitch",
+            "Jinx",
+            "Ashe"
+        ],
+        "bom_com": [
+            "Blitzcrank",
+            "Nami",
+            "Thresh",
+            "Leona",
+            "Janna",
+            "Taric"
+        ]
+    },
+    "Rakan": {
+        "fraco_contra": [
+            "Alistar",
+            "Morgana",
+            "Lulu",
+            "Leona",
+            "Taric",
+            "Poppy"
+        ],
+        "forte_contra": [
+            "Blitzcrank",
+            "Jhin",
+            "Yuumi",
+            "Katarina",
+            "Talon",
+            "Annie"
+        ],
+        "bom_com": [
+            "Xayah",
+            "Jhin",
+            "Miss Fortune",
+            "Caitlyn",
+            "Lucian",
+            "Vayne"
+        ]
+    },
+    "Rammus": {
+        "fraco_contra": [
+            "Trundle",
+            "Vi",
+            "Dr. Mundo",
+            "Darius",
+            "Shyvana",
+            "Elise"
+        ],
+        "forte_contra": [
+            "Master Yi",
+            "Tryndamere",
+            "Yasuo",
+            "Fiora",
+            "Katarina",
+            "Aatrox"
+        ],
+        "bom_com": [
+            "Ahri",
+            "Fizz",
+            "Ashe",
+            "Shen",
+            "Teemo",
+            "Jayce"
+        ]
+    },
+    "Rek'Sai": {
+        "fraco_contra": [
+            "Fizz",
+            "Jax",
+            "Trundle",
+            "Tryndamere",
+            "Poppy",
+            "Yorick"
+        ],
+        "forte_contra": [
+            "Shaco",
+            "Evelynn",
+            "Bardo",
+            "Rengar",
+            "Kha'Zix",
+            "Nasus"
+        ],
+        "bom_com": [
+            "Yasuo",
+            "Lissandra",
+            "Galio",
+            "Morgana",
+            "Braum",
+            "Tryndamere"
+        ]
+    },
+    "Rell": {
+        "fraco_contra": [
+            "Janna",
+            "Zilean",
+            "Taric",
+            "Zyra",
+            "Shaco",
+            "Seraphine"
+        ],
+        "forte_contra": [
+            "Seraphine",
+            "Twitch",
+            "Lux",
+            "Nautilus",
+            "Pyke",
+            "Pantheon"
+        ],
+        "bom_com": []
+    },
+    "Renekton": {
+        "fraco_contra": [
+            "Garen",
+            "Vayne",
+            "Pantheon",
+            "Ryze",
+            "Trundle",
+            "Shyvana"
+        ],
+        "forte_contra": [
+            "Riven",
+            "Irelia",
+            "Jax",
+            "Akali",
+            "Lee Sin",
+            "Fiora"
+        ],
+        "bom_com": [
+            "Nasus",
+            "Lulu",
+            "Ahri",
+            "Aatrox",
+            "Amumu",
+            "Orianna"
+        ]
+    },
+    "Rengar": {
+        "fraco_contra": [
+            "Jax",
+            "Fiora",
+            "Pantheon",
+            "Darius",
+            "Lee Sin",
+            "Renekton"
+        ],
+        "forte_contra": [
+            "Ivern",
+            "Kha'Zix",
+            "Yasuo",
+            "Aatrox",
+            "Nasus",
+            "Riven"
+        ],
+        "bom_com": [
+            "Ivern",
+            "Kha'Zix",
+            "Shen",
+            "Orianna",
+            "Elise",
+            "Nocturne"
+        ]
+    },
+    "Riven": {
+        "fraco_contra": [
+            "Garen",
+            "Renekton",
+            "Pantheon",
+            "Olaf",
+            "Jax",
+            "Kennen"
+        ],
+        "forte_contra": [
+            "Yasuo",
+            "Gnar",
+            "Diana",
+            "Vladimir",
+            "Aatrox",
+            "Nasus"
+        ],
+        "bom_com": [
+            "Yasuo",
+            "Ahri",
+            "Irelia",
+            "Amumu",
+            "Orianna",
+            "Shyvana"
+        ]
+    },
+    "Rumble": {
+        "fraco_contra": [
+            "Yorick",
+            "Xin Zhao",
+            "Jayce",
+            "Darius",
+            "Viktor",
+            "Elise"
+        ],
+        "forte_contra": [
+            "Nasus",
+            "Teemo",
+            "Malphite",
+            "Poppy",
+            "Akali",
+            "Singed"
+        ],
+        "bom_com": [
+            "Amumu",
+            "Sejuani",
+            "Orianna",
+            "Jarvan IV",
+            "Leona",
+            "Kennen"
+        ]
+    },
+    "Ryze": {
+        "fraco_contra": [
+            "Cassiopeia",
+            "Lux",
+            "Brand",
+            "Anivia",
+            "Xerath",
+            "Ziggs"
+        ],
+        "forte_contra": [
+            "Fizz",
+            "Renekton",
+            "Veigar",
+            "Kennen",
+            "Evelynn",
+            "Jax"
+        ],
+        "bom_com": [
+            "Jax",
+            "Lee Sin",
+            "Udyr",
+            "Maokai",
+            "Amumu",
+            "Zoe"
+        ]
+    },
+    "Samira": {
+        "fraco_contra": [
+            "Senna",
+            "Miss Fortune",
+            "Kayn",
+            "Twitch",
+            "Ashe",
+            "Taric"
+        ],
+        "forte_contra": [
+            "Aphelios",
+            "Ezreal",
+            "Fizz",
+            "Xayah",
+            "Lucian",
+            "Caitlyn"
+        ],
+        "bom_com": [
+            "Leona",
+            "Senna",
+            "Alistar"
+        ]
+    },
+    "Sejuani": {
+        "fraco_contra": [
+            "Xin Zhao",
+            "Lee Sin",
+            "Olaf",
+            "Vi",
+            "Morgana",
+            "Shyvana"
+        ],
+        "forte_contra": [
+            "Hecarim",
+            "Katarina",
+            "Yasuo",
+            "Darius",
+            "Aatrox",
+            "Master Yi"
+        ],
+        "bom_com": [
+            "Ekko",
+            "Talon",
+            "Rumble",
+            "Lissandra",
+            "Katarina",
+            "Azir"
+        ]
+    },
+    "Senna": {
+        "fraco_contra": [
+            "Pyke",
+            "Veigar",
+            "Blitzcrank",
+            "Shaco",
+            "Aatrox"
+        ],
+        "forte_contra": [
+            "Samira",
+            "Leona",
+            "Lulu",
+            "Yasuo",
+            "Morgana"
+        ],
+        "bom_com": [
+            "Tahm Kench",
+            "Lucian",
+            "Sett",
+            "Jinx",
+            "Samira",
+            "Aphelios"
+        ]
+    },
+    "Seraphine": {
+        "fraco_contra": [
+            "Gragas",
+            "Maokai",
+            "Rell",
+            "Bardo",
+            "Pyke",
+            "Thresh"
+        ],
+        "forte_contra": [
+            "Caitlyn",
+            "Lucian",
+            "Kalista",
+            "Draven",
+            "Jhin",
+            "Jinx"
+        ],
+        "bom_com": [
+            "Jinx",
+            "Lux"
+        ]
+    },
+    "Sett": {
+        "fraco_contra": [
+            "Renekton",
+            "Yorick",
+            "Heimerdinger",
+            "Vayne",
+            "Urgot",
+            "Yone"
+        ],
+        "forte_contra": [
+            "Yasuo",
+            "Riven",
+            "Irelia",
+            "Camille",
+            "Kayle",
+            "Garen"
+        ],
+        "bom_com": [
+            "Yuumi",
+            "Pyke",
+            "Senna",
+            "Blitzcrank",
+            "Camille"
+        ]
+    },
+    "Shaco": {
+        "fraco_contra": [
+            "Lee Sin",
+            "Illaoi",
+            "Warwick",
+            "Vi",
+            "Rek'Sai",
+            "Riven"
+        ],
+        "forte_contra": [
+            "Amumu",
+            "Xerath",
+            "Nidalee",
+            "Master Yi",
+            "Kha'Zix",
+            "Maokai"
+        ],
+        "bom_com": [
+            "Shen",
+            "Orianna",
+            "Blitzcrank",
+            "Teemo",
+            "Alistar",
+            "Singed"
+        ]
+    },
+    "Shen": {
+        "fraco_contra": [
+            "Yorick",
+            "Vladimir",
+            "Jayce",
+            "Teemo",
+            "Warwick",
+            "Jax"
+        ],
+        "forte_contra": [
+            "Pantheon",
+            "Malphite",
+            "Kha'Zix",
+            "Jarvan IV",
+            "Zed",
+            "Renekton"
+        ],
+        "bom_com": [
+            "Zed",
+            "Ahri",
+            "Akali",
+            "Twisted Fate",
+            "Rengar",
+            "Shaco"
+        ]
+    },
+    "Shyvana": {
+        "fraco_contra": [
+            "Olaf",
+            "Trundle",
+            "Teemo",
+            "Pantheon",
+            "Darius",
+            "Elise"
+        ],
+        "forte_contra": [
+            "Amumu",
+            "Renekton",
+            "Maokai",
+            "Nautilus",
+            "Riven",
+            "Nocturne"
+        ],
+        "bom_com": [
+            "Riven",
+            "Orianna",
+            "Yasuo",
+            "Shen",
+            "Malphite",
+            "Jarvan IV"
+        ]
+    },
+    "Singed": {
+        "fraco_contra": [
+            "Teemo",
+            "Jayce",
+            "Vladimir",
+            "Gnar",
+            "Kennen",
+            "Kayle"
+        ],
+        "forte_contra": [
+            "Jax",
+            "Zed",
+            "Kayn",
+            "Tryndamere",
+            "Irelia",
+            "Wukong"
+        ],
+        "bom_com": [
+            "Cassiopeia",
+            "Teemo",
+            "Volibear",
+            "Sion",
+            "Zilean",
+            "Shaco"
+        ]
+    },
+    "Sion": {
+        "fraco_contra": [
+            "Darius",
+            "Aurelion Sol",
+            "Garen",
+            "Morgana",
+            "Camille",
+            "Jax"
+        ],
+        "forte_contra": [
+            "LeBlanc",
+            "Talon",
+            "Tryndamere",
+            "Kassadin",
+            "Lux",
+            "Kayle"
+        ],
+        "bom_com": [
+            "Talon",
+            "Singed",
+            "Pantheon",
+            "Taric",
+            "Darius",
+            "Ahri"
+        ]
+    },
+    "Sivir": {
+        "fraco_contra": [
+            "Vayne",
+            "Twitch",
+            "Miss Fortune",
+            "Draven",
+            "Kha'Zix",
+            "Xayah"
+        ],
+        "forte_contra": [
+            "Caitlyn",
+            "Jinx",
+            "Ashe",
+            "Blitzcrank",
+            "Tristana",
+            "Graves"
+        ],
+        "bom_com": [
+            "Soraka",
+            "Taric",
+            "Thresh",
+            "Leona",
+            "Bardo",
+            "Blitzcrank"
+        ]
+    },
+    "Skarner": {
+        "fraco_contra": [
+            "Morgana",
+            "Trundle",
+            "Olaf",
+            "Vi",
+            "Sylas",
+            "Shyvana"
+        ],
+        "forte_contra": [
+            "Master Yi",
+            "Katarina",
+            "Mordekaiser",
+            "Viego",
+            "Jax",
+            "Warwick"
+        ],
+        "bom_com": [
+            "Heimerdinger",
+            "Malzahar",
+            "Mordekaiser",
+            "Olaf",
+            "Thresh",
+            "Jayce"
+        ]
+    },
+    "Sona": {
+        "fraco_contra": [
+            "Blitzcrank",
+            "Jhin",
+            "Leona",
+            "Thresh",
+            "Miss Fortune",
+            "Zyra"
+        ],
+        "forte_contra": [
+            "Janna",
+            "Trundle",
+            "Lulu",
+            "Vayne",
+            "Nunu",
+            "Alistar"
+        ],
+        "bom_com": [
+            "Miss Fortune",
+            "Ezreal",
+            "Ashe",
+            "Varus",
+            "Graves",
+            "Viktor"
+        ]
+    },
+    "Soraka": {
+        "fraco_contra": [
+            "Gnar",
+            "Blitzcrank",
+            "Miss Fortune",
+            "Kindred",
+            "Tristana",
+            "Zac"
+        ],
+        "forte_contra": [
+            "Karthus",
+            "Lulu",
+            "Yasuo",
+            "Nunu",
+            "Katarina",
+            "Wukong"
+        ],
+        "bom_com": [
+            "Ezreal",
+            "Varus",
+            "Sivir",
+            "Graves",
+            "Kog'Maw",
+            "Jayce"
+        ]
+    },
+    "Swain": {
+        "fraco_contra": [
+            "Viktor",
+            "Cassiopeia",
+            "Fizz",
+            "Syndra",
+            "LeBlanc",
+            "Lux"
+        ],
+        "forte_contra": [
+            "Vladimir",
+            "Ahri",
+            "Diana",
+            "Mordekaiser",
+            "Kennen",
+            "Akali"
+        ],
+        "bom_com": [
+            "Vladimir",
+            "Maokai",
+            "Alistar",
+            "Jarvan IV",
+            "Amumu",
+            "Sejuani"
+        ]
+    },
+    "Sylas": {
+        "fraco_contra": [
+            "Zoe",
+            "Jax",
+            "Garen",
+            "Renekton",
+            "Diana",
+            "Lulu"
+        ],
+        "forte_contra": [
+            "Annie",
+            "Twisted Fate",
+            "Nautilus",
+            "Aatrox",
+            "Irelia",
+            "Skarner"
+        ],
+        "bom_com": [
+            "Orianna",
+            "Lee Sin",
+            "Xin Zhao",
+            "Camille",
+            "Jarvan IV"
+        ]
+    },
+    "Syndra": {
+        "fraco_contra": [
+            "Fizz",
+            "Talon",
+            "Kassadin",
+            "Kayle",
+            "Akali",
+            "Yone"
+        ],
+        "forte_contra": [
+            "Heimerdinger",
+            "Orianna",
+            "LeBlanc",
+            "Viktor",
+            "Azir",
+            "Malzahar"
+        ],
+        "bom_com": [
+            "Zac",
+            "Nami",
+            "Thresh",
+            "Zilean",
+            "Kha'Zix",
+            "Lulu"
+        ]
+    },
+    "Tahm Kench": {
+        "fraco_contra": [
+            "Vayne",
+            "Kalista",
+            "Janna",
+            "Morgana",
+            "Gnar",
+            "Kassadin"
+        ],
+        "forte_contra": [
+            "Illaoi",
+            "Leona",
+            "Kai\u2019Sa",
+            "Zed",
+            "Urgot",
+            "Udyr"
+        ],
+        "bom_com": [
+            "Kalista",
+            "Ekko",
+            "Jinx",
+            "Thresh",
+            "Aurelion Sol",
+            "Senna"
+        ]
+    },
+    "Taliyah": {
+        "fraco_contra": [
+            "Zed",
+            "LeBlanc",
+            "Fizz",
+            "Malphite",
+            "Qiyana",
+            "Ahri"
+        ],
+        "forte_contra": [
+            "Aurelion Sol",
+            "Riven",
+            "Gnar",
+            "Singed",
+            "Aatrox",
+            "Caitlyn"
+        ],
+        "bom_com": [
+            "Poppy",
+            "Yasuo",
+            "Qiyana",
+            "Lee Sin",
+            "Lucian",
+            "Vayne"
+        ]
+    },
+    "Talon": {
+        "fraco_contra": [
+            "Lee Sin",
+            "Diana",
+            "Pantheon",
+            "Mordekaiser",
+            "Riven",
+            "Yorick"
+        ],
+        "forte_contra": [
+            "Kassadin",
+            "Lux",
+            "Veigar",
+            "Ahri",
+            "Morgana",
+            "Katarina"
+        ],
+        "bom_com": [
+            "Zed",
+            "Amumu",
+            "Sejuani",
+            "Sion",
+            "Katarina",
+            "Darius"
+        ]
+    },
+    "Taric": {
+        "fraco_contra": [
+            "Sivir",
+            "Morgana",
+            "Nami",
+            "Lulu",
+            "Zyra",
+            "Ahri"
+        ],
+        "forte_contra": [
+            "Miss Fortune",
+            "Rakan",
+            "Zed",
+            "Blitzcrank",
+            "Draven",
+            "Ashe"
+        ],
+        "bom_com": [
+            "Ezreal",
+            "Pantheon",
+            "Twitch",
+            "Graves",
+            "Draven",
+            "Sivir"
+        ]
+    },
+    "Teemo": {
+        "fraco_contra": [
+            "Yorick",
+            "Pantheon",
+            "Zed",
+            "Jayce",
+            "Rumble",
+            "Akali"
+        ],
+        "forte_contra": [
+            "Garen",
+            "Darius",
+            "Tryndamere",
+            "Nasus",
+            "Singed",
+            "Volibear"
+        ],
+        "bom_com": [
+            "Cassiopeia",
+            "Lee Sin",
+            "Blitzcrank",
+            "Volibear",
+            "Singed",
+            "Dr. Mundo"
+        ]
+    },
+    "Thresh": {
+        "fraco_contra": [
+            "Morgana",
+            "Lulu",
+            "Alistar",
+            "Lucian",
+            "Ezreal",
+            "Janna"
+        ],
+        "forte_contra": [
+            "Draven",
+            "Sona",
+            "Bardo",
+            "Blitzcrank",
+            "Varus",
+            "Caitlyn"
+        ],
+        "bom_com": [
+            "Vayne",
+            "Jinx",
+            "Lucian",
+            "Draven",
+            "Caitlyn",
+            "Miss Fortune"
+        ]
+    },
+    "Tristana": {
+        "fraco_contra": [
+            "Draven",
+            "Corki",
+            "Sivir",
+            "Diana",
+            "Twitch",
+            "Lucian"
+        ],
+        "forte_contra": [
+            "Miss Fortune",
+            "Caitlyn",
+            "Lucian",
+            "Varus",
+            "Vayne",
+            "Kai\u2019Sa"
+        ],
+        "bom_com": [
+            "Blitzcrank",
+            "Alistar",
+            "Thresh",
+            "Leona",
+            "Lulu",
+            "Taric"
+        ]
+    },
+    "Trundle": {
+        "fraco_contra": [
+            "Sona",
+            "Teemo",
+            "Jax",
+            "Pantheon",
+            "Vladimir",
+            "Kennen"
+        ],
+        "forte_contra": [
+            "Lee Sin",
+            "Dr. Mundo",
+            "Rammus",
+            "Yorick",
+            "Renekton",
+            "Shyvana"
+        ],
+        "bom_com": [
+            "Anivia",
+            "Lissandra",
+            "Vayne",
+            "Jarvan IV",
+            "Aatrox",
+            "Nidalee"
+        ]
+    },
+    "Tryndamere": {
+        "fraco_contra": [
+            "Teemo",
+            "Jax",
+            "Rammus",
+            "Malphite",
+            "Pantheon",
+            "Renekton"
+        ],
+        "forte_contra": [
+            "Kayn",
+            "Illaoi",
+            "Yasuo",
+            "Kha'Zix",
+            "Aatrox",
+            "Zed"
+        ],
+        "bom_com": [
+            "Ashe",
+            "Kayle",
+            "Zilean",
+            "Aatrox",
+            "Amumu",
+            "Morgana"
+        ]
+    },
+    "Twisted Fate": {
+        "fraco_contra": [
+            "Fizz",
+            "Ahri",
+            "Diana",
+            "Veigar",
+            "LeBlanc",
+            "Akali"
+        ],
+        "forte_contra": [
+            "Evelynn",
+            "Ryze",
+            "Karthus",
+            "Lissandra",
+            "Ziggs",
+            "Nidalee"
+        ],
+        "bom_com": [
+            "Shen",
+            "Gangplank",
+            "Nocturne",
+            "Aatrox",
+            "Ashe",
+            "Taric"
+        ]
+    },
+    "Twitch": {
+        "fraco_contra": [
+            "Caitlyn",
+            "Jinx",
+            "Lee Sin",
+            "Draven",
+            "Quinn",
+            "Corki"
+        ],
+        "forte_contra": [
+            "Ezreal",
+            "Sivir",
+            "Tristana",
+            "Vayne",
+            "Ashe",
+            "Samira"
+        ],
+        "bom_com": [
+            "Blitzcrank",
+            "Nami",
+            "Leona",
+            "Taric",
+            "Thresh",
+            "Sona"
+        ]
+    },
+    "Udyr": {
+        "fraco_contra": [
+            "Ashe",
+            "Jax",
+            "Teemo",
+            "Tahm Kench",
+            "Trundle",
+            "Kayle"
+        ],
+        "forte_contra": [
+            "Lee Sin",
+            "Galio",
+            "Warwick",
+            "Irelia",
+            "Pantheon",
+            "Gangplank"
+        ],
+        "bom_com": [
+            "LeBlanc",
+            "Ryze",
+            "Bardo",
+            "Blitzcrank",
+            "Amumu",
+            "Evelynn"
+        ]
+    },
+    "Urgot": {
+        "fraco_contra": [
+            "Cho'Gath",
+            "Tahm Kench",
+            "Olaf",
+            "Jax",
+            "Darius",
+            "Gangplank"
+        ],
+        "forte_contra": [
+            "Graves",
+            "Ashe",
+            "Jinx",
+            "Corki",
+            "Draven",
+            "Kled"
+        ],
+        "bom_com": [
+            "Soraka",
+            "Leona",
+            "Thresh",
+            "Alistar",
+            "Taric",
+            "Blitzcrank"
+        ]
+    },
+    "Varus": {
+        "fraco_contra": [
+            "Lucian",
+            "Graves",
+            "Tristana",
+            "Blitzcrank",
+            "Sivir",
+            "Leona"
+        ],
+        "forte_contra": [
+            "Draven",
+            "Caitlyn",
+            "Vayne",
+            "Jinx",
+            "Miss Fortune",
+            "Quinn"
+        ],
+        "bom_com": [
+            "Soraka",
+            "Leona",
+            "Sona",
+            "Thresh",
+            "Nami",
+            "Nautilus"
+        ]
+    },
+    "Vayne": {
+        "fraco_contra": [
+            "Caitlyn",
+            "Draven",
+            "Ashe",
+            "Quinn",
+            "Varus",
+            "Graves"
+        ],
+        "forte_contra": [
+            "Lucian",
+            "Renekton",
+            "Sivir",
+            "Ezreal",
+            "Cho'Gath",
+            "Xayah"
+        ],
+        "bom_com": [
+            "Thresh",
+            "Blitzcrank",
+            "Alistar",
+            "Nunu",
+            "Leona",
+            "Nami"
+        ]
+    },
+    "Veigar": {
+        "fraco_contra": [
+            "Fizz",
+            "Zed",
+            "Talon",
+            "Katarina",
+            "Kassadin",
+            "Ryze"
+        ],
+        "forte_contra": [
+            "Karthus",
+            "Twisted Fate",
+            "Neeko",
+            "Karma",
+            "Nidalee",
+            "Yuumi"
+        ],
+        "bom_com": [
+            "LeBlanc",
+            "Warwick",
+            "Maokai",
+            "Amumu",
+            "Blitzcrank",
+            "Lux"
+        ]
+    },
+    "Vel'Koz": {
+        "fraco_contra": [
+            "Yasuo",
+            "Katarina",
+            "LeBlanc",
+            "Fizz",
+            "Zed",
+            "Talon"
+        ],
+        "forte_contra": [
+            "Heimerdinger",
+            "Teemo",
+            "Twisted Fate",
+            "Ryze",
+            "Annie",
+            "Orianna"
+        ],
+        "bom_com": [
+            "Amumu",
+            "Yasuo",
+            "Aatrox",
+            "Leona",
+            "Jarvan IV",
+            "Ahri"
+        ]
+    },
+    "Vex": {
+        "fraco_contra": [
+            "Xerath",
+            "Dr. Mundo",
+            "Zed",
+            "Yone"
+        ],
+        "forte_contra": [
+            "Kalista",
+            "Ahri",
+            "LeBlanc",
+            "Yasuo",
+            "Katarina",
+            "Akali"
+        ],
+        "bom_com": []
+    },
+    "Vi": {
+        "fraco_contra": [
+            "Jax",
+            "Darius",
+            "Riven",
+            "Teemo",
+            "Karma",
+            "Poppy"
+        ],
+        "forte_contra": [
+            "Zac",
+            "Shaco",
+            "Jarvan IV",
+            "Katarina",
+            "Rammus",
+            "Hecarim"
+        ],
+        "bom_com": [
+            "Yasuo",
+            "Zed",
+            "Illaoi",
+            "Caitlyn",
+            "Orianna",
+            "Blitzcrank"
+        ]
+    },
+    "Viego": {
+        "fraco_contra": [
+            "Rammus",
+            "Skarner",
+            "Xin Zhao",
+            "Vladimir",
+            "Elise",
+            "Irelia"
+        ],
+        "forte_contra": [
+            "Lillia",
+            "Qiyana",
+            "Graves",
+            "Shyvana",
+            "Trundle",
+            "Poppy"
+        ],
+        "bom_com": []
+    },
+    "Viktor": {
+        "fraco_contra": [
+            "Syndra",
+            "Fizz",
+            "LeBlanc",
+            "Lux",
+            "Ziggs",
+            "Talon"
+        ],
+        "forte_contra": [
+            "Swain",
+            "Ekko",
+            "Katarina",
+            "Rumble",
+            "Karthus",
+            "Ryze"
+        ],
+        "bom_com": [
+            "Cho'Gath",
+            "Sona",
+            "Jarvan IV",
+            "Aatrox",
+            "Amumu",
+            "Leona"
+        ]
+    },
+    "Vladimir": {
+        "fraco_contra": [
+            "Swain",
+            "Riven",
+            "Malzahar",
+            "Xin Zhao",
+            "Fiddlesticks",
+            "Irelia"
+        ],
+        "forte_contra": [
+            "Ekko",
+            "Shen",
+            "Malphite",
+            "Singed",
+            "Morgana",
+            "Camille"
+        ],
+        "bom_com": [
+            "Kennen",
+            "Amumu",
+            "Jarvan IV",
+            "Swain",
+            "Brand",
+            "Maokai"
+        ]
+    },
+    "Volibear": {
+        "fraco_contra": [
+            "Teemo",
+            "Darius",
+            "Jayce",
+            "Kennen",
+            "Kayle",
+            "Renekton"
+        ],
+        "forte_contra": [
+            "Olaf",
+            "Xin Zhao",
+            "Riven",
+            "Irelia",
+            "Jax",
+            "Nasus"
+        ],
+        "bom_com": [
+            "Teemo",
+            "Singed",
+            "Ashe",
+            "Vayne",
+            "Xin Zhao",
+            "Darius"
+        ]
+    },
+    "Warwick": {
+        "fraco_contra": [
+            "Udyr",
+            "Olaf",
+            "Yorick",
+            "Kayle",
+            "Renekton",
+            "Skarner"
+        ],
+        "forte_contra": [
+            "Shaco",
+            "Cho'Gath",
+            "Shen",
+            "Singed",
+            "Malphite",
+            "Nasus"
+        ],
+        "bom_com": [
+            "Veigar",
+            "Malzahar",
+            "Lee Sin",
+            "Katarina",
+            "Mordekaiser",
+            "Lux"
+        ]
+    },
+    "Wukong": {
+        "fraco_contra": [
+            "Darius",
+            "Garen",
+            "Lee Sin",
+            "Olaf",
+            "Renekton",
+            "Nasus"
+        ],
+        "forte_contra": [
+            "Zed",
+            "Jayce",
+            "Elise",
+            "Master Yi",
+            "Teemo",
+            "Aatrox"
+        ],
+        "bom_com": [
+            "Yasuo",
+            "Orianna",
+            "Katarina",
+            "Jarvan IV",
+            "Mordekaiser",
+            "Amumu"
+        ]
+    },
+    "Xayah": {
+        "fraco_contra": [
+            "Vayne",
+            "Lucian",
+            "Draven",
+            "Yasuo",
+            "Jinx",
+            "Varus"
+        ],
+        "forte_contra": [
+            "Ashe",
+            "Sivir",
+            "Pyke",
+            "Thresh",
+            "Kog'Maw",
+            "Ivern"
+        ],
+        "bom_com": [
+            "Rakan",
+            "Thresh",
+            "Lulu",
+            "Blitzcrank",
+            "Zyra",
+            "Karma"
+        ]
+    },
+    "Xerath": {
+        "fraco_contra": [
+            "Ahri",
+            "Ekko",
+            "Shaco",
+            "Fizz",
+            "Zed",
+            "Kassadin"
+        ],
+        "forte_contra": [
+            "Heimerdinger",
+            "Ryze",
+            "Azir",
+            "Annie",
+            "Brand",
+            "Karthus"
+        ],
+        "bom_com": [
+            "Varus",
+            "Amumu",
+            "Leona",
+            "Jarvan IV",
+            "Maokai",
+            "Rammus"
+        ]
+    },
+    "Xin Zhao": {
+        "fraco_contra": [
+            "Jax",
+            "Malphite",
+            "Volibear",
+            "Pantheon",
+            "Teemo",
+            "Fiora"
+        ],
+        "forte_contra": [
+            "Vladimir",
+            "Rumble",
+            "Kayle",
+            "Yorick",
+            "Jayce",
+            "Sejuani"
+        ],
+        "bom_com": [
+            "Garen",
+            "Yasuo",
+            "Pantheon",
+            "Jarvan IV",
+            "Kha'Zix",
+            "Blitzcrank"
+        ]
+    },
+    "Yasuo": {
+        "fraco_contra": [
+            "Jax",
+            "Darius",
+            "Fiora",
+            "Riven",
+            "Akali",
+            "Kayle"
+        ],
+        "forte_contra": [
+            "Jhin",
+            "Vel'Koz",
+            "Lux",
+            "Nidalee",
+            "Ziggs",
+            "Gragas"
+        ],
+        "bom_com": [
+            "Malphite",
+            "Wukong",
+            "Janna",
+            "Vi",
+            "Riven",
+            "Alistar"
+        ]
+    },
+    "Yone": {
+        "fraco_contra": [
+            "Garen",
+            "Aurelion Sol",
+            "Diana",
+            "Heimerdinger",
+            "Illaoi",
+            "Annie"
+        ],
+        "forte_contra": [
+            "Gangplank",
+            "Syndra",
+            "Zoe",
+            "Akali",
+            "Lulu",
+            "Kayle"
+        ],
+        "bom_com": [
+            "Yasuo"
+        ]
+    },
+    "Yorick": {
+        "fraco_contra": [
+            "Cho'Gath",
+            "Renekton",
+            "Trundle",
+            "Xin Zhao",
+            "Nunu",
+            "Aatrox"
+        ],
+        "forte_contra": [
+            "Teemo",
+            "Darius",
+            "Garen",
+            "Shen",
+            "Jayce",
+            "Rumble"
+        ],
+        "bom_com": [
+            "Cassiopeia",
+            "Mordekaiser",
+            "Karthus",
+            "Vayne",
+            "Zilean",
+            "Kog'Maw"
+        ]
+    },
+    "Yuumi": {
+        "fraco_contra": [
+            "Veigar",
+            "Zyra",
+            "Blitzcrank",
+            "Karma",
+            "Rakan",
+            "Lulu"
+        ],
+        "forte_contra": [
+            "Soraka",
+            "Bardo",
+            "Zed",
+            "Fiddlesticks",
+            "Sona",
+            "Galio"
+        ],
+        "bom_com": [
+            "Ezreal",
+            "Twitch",
+            "Kai\u2019Sa",
+            "Sett",
+            "Vayne",
+            "Caitlyn"
+        ]
+    },
+    "Zac": {
+        "fraco_contra": [
+            "Vi",
+            "Zilean",
+            "Vladimir",
+            "Neeko",
+            "Fizz",
+            "Renekton"
+        ],
+        "forte_contra": [
+            "Malphite",
+            "Camille",
+            "Soraka",
+            "Katarina",
+            "Jax",
+            "Riven"
+        ],
+        "bom_com": [
+            "Syndra",
+            "Yasuo",
+            "Orianna",
+            "Lulu",
+            "Wukong",
+            "Kai\u2019Sa"
+        ]
+    },
+    "Zed": {
+        "fraco_contra": [
+            "Kayle",
+            "Lissandra",
+            "Irelia",
+            "Wukong",
+            "Jax",
+            "Singed"
+        ],
+        "forte_contra": [
+            "Veigar",
+            "Lux",
+            "Teemo",
+            "Kassadin",
+            "Orianna",
+            "Azir"
+        ],
+        "bom_com": [
+            "Shen",
+            "Talon",
+            "Nasus",
+            "Vi",
+            "Kayle",
+            "Aatrox"
+        ]
+    },
+    "Ziggs": {
+        "fraco_contra": [
+            "Yasuo",
+            "LeBlanc",
+            "Ekko",
+            "Fizz",
+            "Zed",
+            "Talon"
+        ],
+        "forte_contra": [
+            "Azir",
+            "Heimerdinger",
+            "Ryze",
+            "Kayle",
+            "Viktor",
+            "Orianna"
+        ],
+        "bom_com": [
+            "Amumu",
+            "Jarvan IV",
+            "Malphite",
+            "Aatrox",
+            "Kennen",
+            "Sejuani"
+        ]
+    },
+    "Zilean": {
+        "fraco_contra": [
+            "Ekko",
+            "Morgana",
+            "Fizz",
+            "Karma",
+            "Pantheon",
+            "Aatrox"
+        ],
+        "forte_contra": [
+            "Zac",
+            "Katarina",
+            "Darius",
+            "Zed",
+            "Braum",
+            "Ryze"
+        ],
+        "bom_com": [
+            "Tryndamere",
+            "Syndra",
+            "Jax",
+            "Singed",
+            "Hecarim",
+            "Aatrox"
+        ]
+    },
+    "Zoe": {
+        "fraco_contra": [
+            "Fizz",
+            "Zed",
+            "Kassadin",
+            "Yasuo",
+            "Kayn",
+            "Yone"
+        ],
+        "forte_contra": [
+            "Sylas",
+            "Teemo",
+            "Aurelion Sol",
+            "Bardo",
+            "Brand",
+            "Taliyah"
+        ],
+        "bom_com": [
+            "Thresh",
+            "Ryze",
+            "Fiddlesticks",
+            "Caitlyn",
+            "Vayne",
+            "Diana"
+        ]
+    },
+    "Zyra": {
+        "fraco_contra": [
+            "Katarina",
+            "Fizz",
+            "Diana",
+            "Talon",
+            "Akali",
+            "Kassadin"
+        ],
+        "forte_contra": [
+            "Braum",
+            "Pyke",
+            "Mordekaiser",
+            "Thresh",
+            "Yuumi",
+            "Ryze"
+        ],
+        "bom_com": [
+            "Ashe",
+            "Miss Fortune",
+            "Xayah",
+            "Yasuo",
+            "Malphite",
+            "Amumu"
+        ]
+    }
+}

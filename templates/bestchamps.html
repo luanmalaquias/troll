@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Best Champ</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Local CSS -->
+    <link rel="stylesheet" href="../css/bestchamp.css">
+
+    <!-- Load Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
+        crossorigin="anonymous"></script>
+
+    <!--TODO Icon-->
+    <!-- <link rel="icon" href="../img/iconfckvalor.png"> -->
+</head>
+
+<body data-bs-theme="dark">
+
+    <div class="container">
+
+        <!--Home-->
+        <div class="col -12">
+            <a href="../index.html">
+                <button id="home" type="button" class="btn btn-sm btn-link">Home</button>
+            </a>
+        </div>
+
+        <div class="row mt-5">
+            <div class="col-12">
+
+                <div class="row">
+                    <div class="col-sm-6 col-lg-5">
+                        <h1>Aliados</h1>
+                        <h5>Top</h5>
+                        <select class="form-select champ-select ally-select" onchange="getNomeCampeoes()"></select>
+                        <h5>Jg</h5>
+                        <select class="form-select champ-select ally-select" onchange="getNomeCampeoes()"></select>
+                        <h5>Mid</h5>
+                        <select class="form-select champ-select ally-select" onchange="getNomeCampeoes()"></select>
+                        <h5>Adc</h5>
+                        <select class="form-select champ-select ally-select" onchange="getNomeCampeoes()"></select>
+                        <h5>Sup</h5>
+                        <select class="form-select champ-select ally-select" onchange="getNomeCampeoes()"></select>
+                    </div>
+
+                    <div class="col-sm-6 col-lg-5 offset-sm-0 offset-lg-2">
+                        <h1>Inimigos</h1>
+                        <h5>Top</h5>
+                        <select class="form-select champ-select ally-select" onchange="getNomeCampeoes()"></select>
+                        <h5>Jg</h5>
+                        <select class="form-select champ-select ally-select" onchange="getNomeCampeoes()"></select>
+                        <h5>Mid</h5>
+                        <select class="form-select champ-select ally-select" onchange="getNomeCampeoes()"></select>
+                        <h5>Adc</h5>
+                        <select class="form-select champ-select ally-select" onchange="getNomeCampeoes()"></select>
+                        <h5>Sup</h5>
+                        <select class="form-select champ-select ally-select" onchange="getNomeCampeoes()"></select>
+                    </div>
+                </div>                
+
+                <div class="row mt-5">
+                    <div class="col-12 text-center">
+                        <h1>Melhores champs</h1>
+                        <table class="table table-hover">
+                            <tbody id="corpo-tabela">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+</body>
+<script>
+
+    function carregarDadosJSON(caminhoArquivo) {
+        return fetch(caminhoArquivo)
+            .then(response => response.json())
+            .then(data => {
+                return data;
+            })
+            .catch(error => {
+                console.error('Ocorreu um erro ao carregar o arquivo JSON:', error);
+            });
+    }
+
+    function getNomeCampeoes() {
+        var allySelect = document.getElementsByClassName('ally-select')
+        var arrayAlly = []
+        for (var ally of allySelect) {
+            if (ally.value != '') {
+                arrayAlly.push(ally.value)
+            }
+        }
+
+        var enemySelect = document.getElementsByClassName('enemy-select')
+        var arrayEnemy = []
+        for (var enemy of enemySelect) {
+            if (enemy.value != '') {
+                arrayEnemy.push(enemy.value)
+            }
+        }
+
+        melhorEscolha = encontrarMelhorCampeao(arrayAlly, arrayEnemy);
+
+        tabela = document.getElementById('corpo-tabela')
+        while (tabela.rows.length > 0) {
+            tabela.deleteRow(0);
+        }
+        for (var mE of melhorEscolha) {
+            var tr = document.createElement('tr');
+            var tdNome = document.createElement('td');
+            tdNome.textContent = `${mE[0]}, ${mE[1]} pontos`
+            tr.appendChild(tdNome)
+            tabela.appendChild(tr)
+        }
+
+    }
+
+    function encontrarMelhorCampeao(aliados, inimigos) {
+        let pontuacao = {};
+
+        // dar um ponto para cada campeão com sinergia
+        for (let aliado of aliados) {
+            for (let champ of dados[aliado]['bom_com']) {
+                if (!(champ in pontuacao)) {
+                    pontuacao[champ] = (pontuacao[champ] || 0) + 1;
+                }
+            }
+        }
+
+        // verificar se a sinergia é mútua
+        for (let champ in pontuacao) {
+            for (let aliado of aliados) {
+                if (dados[champ]['bom_com'].includes(aliado)) {
+                    pontuacao[champ] = (pontuacao[champ] || 0) + 2;
+                }
+            }
+        }
+
+        // dar ponto se o campeão for bom contra o inimigo
+        for (let champ in pontuacao) {
+            for (let inimigo of inimigos) {
+                if (dados[champ]['forte_contra'].includes(inimigo)) {
+                    pontuacao[champ] = (pontuacao[champ] || 0) + 3;
+                }
+            }
+        }
+
+        // tirar ponto se o campeão for ruim contra o inimigo
+        for (let champ in pontuacao) {
+            for (let inimigo of inimigos) {
+                if (dados[champ]['fraco_contra'].includes(inimigo)) {
+                    pontuacao[champ] = (pontuacao[champ] || 0) - 2;
+                }
+            }
+        }
+
+        // ordenar os campeões por pontuação em ordem decrescente
+        pontuacao = Object.entries(pontuacao).sort((a, b) => b[1] - a[1]);
+
+        // remover inimigos das pontuacoes
+        for (let inimigo of inimigos) {
+            for (let i = 0; i < pontuacao.length; i++) {
+                if (pontuacao[i][0] == inimigo){
+                    pontuacao.splice(i, 1);
+                }
+            }
+        }
+
+        return pontuacao;
+    }
+
+    function popularSelects(champs){        
+        var champSelect = document.getElementsByClassName('champ-select')
+        for (var select of champSelect) {
+            for (var champ of champs) {
+                var option = document.createElement('option');
+                option.textContent = champ;
+                option.value = champ;
+                select.appendChild(option)
+            }
+        }
+    }
+
+    var dados;
+    carregarDadosJSON('../js/bestchamps/dadosleagueofgraph2.json').then(data => { dados = data; });
+    carregarDadosJSON('../js/bestchamps/champs.json').then(champs => { popularSelects(champs) });
+    
+
+</script>
+
+</html>

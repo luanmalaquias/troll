@@ -1,0 +1,12 @@
+body{
+    background-image: url("../img/bestchampsbackground.jpg");
+    background-size: auto;
+    
+}
+
+.container{
+    background-color: rgba(0, 0, 0, 0.753);
+    color: white;
+    border-radius: 10px;
+    backdrop-filter: blur(2px);
+}
